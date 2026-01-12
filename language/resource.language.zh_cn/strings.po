@@ -115,7 +115,7 @@ msgstr "列表：节目单"
 #: /1080i/Includes_Views_PVR.xml
 msgctxt "#31020"
 msgid "List Outline"
-msgstr "列表：内容提要"
+msgstr "列表：剧情简介"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31021"
@@ -151,7 +151,7 @@ msgstr "启动时聚焦小部件"
 
 msgctxt "#31028"
 msgid "Outline"
-msgstr "内容提要"
+msgstr "剧情简介"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31029"
