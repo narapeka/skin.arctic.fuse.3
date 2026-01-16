@@ -170,52 +170,6 @@
             <value>False</value>
         </rule>
     </rules>
-    <rules name="widget_include">
-        <rule>
-            <condition>{item_widget_style}==Landscape</condition>
-            <value>List_Landscape_Row</value>
-        </rule>
-        <rule>
-            <condition>{item_widget_style}==Poster</condition>
-            <value>List_Poster_Row</value>
-        </rule>
-        <rule>
-            <condition>{item_widget_style}==Square</condition>
-            <value>List_Square_Row</value>
-        </rule>
-        <rule>
-            <condition>{item_widget_style}==Circle</condition>
-            <value>List_Circle_Row</value>
-        </rule>
-        <rule>
-            <condition>{item_widget_style}==Board</condition>
-            <value>List_Board_Row</value>
-        </rule>
-        <rule>
-            <condition>{parent_item_widget_style}==Landscape</condition>
-            <value>List_Landscape_Row</value>
-        </rule>
-        <rule>
-            <condition>{parent_item_widget_style}==Poster</condition>
-            <value>List_Poster_Row</value>
-        </rule>
-        <rule>
-            <condition>{parent_item_widget_style}==Square</condition>
-            <value>List_Square_Row</value>
-        </rule>
-        <rule>
-            <condition>{parent_item_widget_style}==Circle</condition>
-            <value>List_Circle_Row</value>
-        </rule>
-        <rule>
-            <condition>{parent_item_widget_style}==Board</condition>
-            <value>List_Board_Row</value>
-        </rule>
-        <rule>
-            <condition>True</condition>
-            <value>List_Landscape_Row</value>
-        </rule>
-    </rules>
     <value name="widget_detailed">False</value>
     <rules name="widget_custom_content">
         <rule>
@@ -283,16 +237,8 @@
     </rules>
     <rules name="widget_layout_h">
         <rule>
-            <condition>{widget_include}==List_Poster_Row</condition>
+            <condition>{item_widget_style}==Poster</condition>
             <value>410</value>
-        </rule>
-        <rule>
-            <condition>{widget_include}==List_Landscape_Row</condition>
-            <value>view_poster_itemlayout_h</value>
-        </rule>
-        <rule>
-            <condition>{widget_include}==List_Square_Row</condition>
-            <value>view_poster_itemlayout_h</value>
         </rule>
         <rule>
             <condition>True</condition>
@@ -301,25 +247,37 @@
     </rules>
     <rules name="widget_art_h">
         <rule>
-            <condition>{widget_include}==List_Poster_Row</condition>
+            <condition>{item_widget_style}==Poster</condition>
             <value>390</value>
         </rule>
         <rule>
-            <condition>{widget_include}==List_Landscape_Row</condition>
+            <condition>{item_widget_style}==Landscape</condition>
             <value>view_landscape_item_h</value>
         </rule>
         <rule>
-            <condition>{widget_include}==List_Square_Row</condition>
+            <condition>{item_widget_style}==Card</condition>
+            <value>view_landscape_item_h</value>
+        </rule>
+        <rule>
+            <condition>{item_widget_style}==Square</condition>
             <value>view_poster_item_w</value>
         </rule>
         <rule>
-            <condition>True</condition>
+            <condition>{item_widget_style}==Circle</condition>
             <value>view_poster_item_h</value>
+        </rule>
+        <rule>
+            <condition>{item_widget_style}==Board</condition>
+            <value>view_poster_item_h</value>
+        </rule>
+        <rule>
+            <condition>True</condition>
+            <value>view_landscape_item_h</value>
         </rule>
     </rules>
     <rules name="widget_img_h">
         <rule>
-            <condition>{widget_include}==List_Poster_Row</condition>
+            <condition>{item_widget_style}==Poster</condition>
             <value>310</value>
         </rule>
         <rule>
