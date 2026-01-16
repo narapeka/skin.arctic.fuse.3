@@ -2487,28 +2487,28 @@ msgid "EOTF & Gamut"
 msgstr "EOTF & Gamut"
 
 msgctxt "#32071"
-msgid "Codec logos (Duration)"
-msgstr "Codec-Logos (Dauer)"
+msgid "- Duration"
+msgstr "- Dauer"
 
 msgctxt "#32072"
-msgid "Time for codec logos"
-msgstr "Zeit für Codec-Logos"
+msgid "- Show path"
+msgstr "- Pfad anzeigen"
 
 msgctxt "#32073"
 msgid "PlayerProcessInfo"
 msgstr "PlayerProcessInfo"
 
 msgctxt "#32074"
-msgid "PlayerProcessInfo mode"
-msgstr "PlayerProcessInfo-Modus"
+msgid "PlayerProcessInfo type"
+msgstr "PlayerProcessInfo-Typ"
 
 msgctxt "#32075"
 msgid "second"
 msgstr "Sekunde"
 
 msgctxt "#32076"
-msgid "Show file name in PlayerProcessInfo"
-msgstr "Dateinamen in PlayerProcessInfo anzeigen"
+msgid "- Show file name"
+msgstr "- Dateiname anzeigen"
 
 msgctxt "#32077"
 msgid "Modern"
@@ -2527,8 +2527,8 @@ msgid "Optional"
 msgstr "Optional"
 
 msgctxt "#32081"
-msgid "Show file name and path in the version selection"
-msgstr "Dateiname und Pfad in der Versionsauswahl anzeigen"
+msgid "Show file name in the version selection"
+msgstr "Dateiname in der Versionsauswahl anzeigen"
 
 msgctxt "#32082"
 msgid "Customise video osd"

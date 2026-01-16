@@ -884,7 +884,7 @@
                 <param name="is_sd">[!String.IsEmpty($PARAM[container]$PARAM[infolabel_videoresolution])]</param>
             </include>
             <include content="Info_Line_VideoQuality_HDRType" condition="Skin.HasSetting(InfoTags.EnableHDR)">
-                <param name="visible">!String.IsEmpty($PARAM[container]$PARAM[infolabel_hdrtype])</param>
+                <param name="visible">!String.IsEmpty($PARAM[container]$PARAM[infolabel_videoresolution])</param>
                 <param name="colordiffuse">$PARAM[colordiffuse]</param>
                 <param name="is_dolbyvision">[String.IsEqual($PARAM[infolabel_hdrtype],dolbyvision)]</param>
                 <param name="is_hdr">[String.IsEqual($PARAM[infolabel_hdrtype],hdr10)]</param>
