@@ -73,7 +73,7 @@
     <include file="Includes_Widgets.xml" />
     <include file="Includes_NextAired.xml" />
     <include file="Includes_Paths.xml" />
-    <include file="Includes_CodecLogos.xml"/>
+    <include file="Includes_Hybrid.xml"/>
     <include file="Includes_PPI_Classic.xml"/>
     <include file="Includes_PPI_Modern.xml"/>
 
