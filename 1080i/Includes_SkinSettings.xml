@@ -653,17 +653,6 @@
             <param name="id">009</param>
             <param name="dialog">false</param>
             <param name="control">radiobutton</param>
-            <label>$LOCALIZE[21446]</label>
-            <onclick>Skin.ToggleSetting(InfoTags.DisableAudioCodec)</onclick>
-            <selected>!Skin.HasSetting(InfoTags.DisableAudioCodec)</selected>
-        </include>
-        <include content="Settings_Button" description="Audio Channels">
-            <param name="dialog">false</param>
-            <param name="window">skinsettings</param>
-            <param name="baseid">$PARAM[baseid]</param>
-            <param name="id">008</param>
-            <param name="dialog">false</param>
-            <param name="control">radiobutton</param>
             <label>$LOCALIZE[21444]</label>
             <onclick>Skin.ToggleSetting(InfoTags.EnableAudioChannels)</onclick>
             <selected>Skin.HasSetting(InfoTags.EnableAudioChannels)</selected>
