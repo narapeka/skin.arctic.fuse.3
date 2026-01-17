@@ -2562,3 +2562,7 @@ msgstr "解码"
 msgctxt "#32088"
 msgid "System"
 msgstr "系统"
+
+msgctxt "#32089"
+msgid "Info line"
+msgstr "信息栏"
