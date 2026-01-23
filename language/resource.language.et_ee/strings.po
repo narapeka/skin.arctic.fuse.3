@@ -9,274 +9,274 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh_CN\n"
+"Language: et_EE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 msgctxt "#31000"
 msgid "Live TV / PVR"
-msgstr "电视直播 / PVR"
+msgstr "Otsepilt / PVR"
 
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31001"
 msgid "In-Progress Episodes"
-msgstr "正在观看的剧集"
+msgstr "Pooleli episoodid"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31002"
 msgid "Combined Square"
-msgstr "混合：方形"
+msgstr "Kombo - Ruut"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31003"
 msgid "Combined Landscape"
-msgstr "混合：横幅"
+msgstr "Kombo - Rõhtpilt"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31004"
 msgid "Combined Poster"
-msgstr "混合：海报"
+msgstr "Kombo - Plakat"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31005"
 msgid "Combined Circle"
-msgstr "混合：圆形"
+msgstr "Kombo - Ring"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31006"
 msgid "Combined Board"
-msgstr "混合：看板"
+msgstr "Kombo - Tahvel"
 
 #: /1080i/Dialog_DialogSelect.xml
 msgctxt "#31007"
 msgid "Row"
-msgstr "行"
+msgstr "Rida"
 
 #: /1080i/Dialog_DialogSelect.xml
 msgctxt "#31008"
 msgid "Wall"
-msgstr "墙"
+msgstr "Sein"
 
 #: /1080i/Includes_Shortcuts_Window.xml
 msgctxt "#31009"
 msgid "Widget Customisation"
-msgstr "小部件自定义"
+msgstr "Vidina kohandamine"
 
 #: /1080i/Includes_Hubs.xml
 msgctxt "#31010"
 msgid "Program"
-msgstr "节目"
+msgstr "Programm"
 
 #: /1080i/Includes_Hubs.xml
 msgctxt "#31011"
 msgid "Picture"
-msgstr "图片"
+msgstr "Pilt"
 
 #: /1080i/Includes_Hubs.xml
 msgctxt "#31012"
 msgid "Recent"
-msgstr "最近"
+msgstr "Uued"
 
 #: /1080i/Includes_Views_PVR.xml
 msgctxt "#31013"
 msgid "List Standard"
-msgstr "列表：标准"
+msgstr "Loend - Standard"
 
 #: /1080i/Includes_Views_PVR.xml
 msgctxt "#31014"
 msgid "List Info"
-msgstr "列表：信息"
+msgstr "Loend - Info"
 
 msgctxt "#31015"
 msgid "Order"
-msgstr "顺序"
+msgstr "Suund"
 
 msgctxt "#31016"
 msgid "Sort by"
-msgstr "排序方式"
+msgstr "Järjesta"
 
 #: /1080i/Includes_Views_PVR.xml
 msgctxt "#31017"
 msgid "List Details"
-msgstr "列表：详细"
+msgstr "Loend - Üksikasjad"
 
 msgctxt "#31018"
 msgid "Recommendations"
-msgstr "推荐"
+msgstr "Soovitused"
 
 #: /1080i/Includes_Views_PVR.xml
 msgctxt "#31019"
 msgid "List Planner"
-msgstr "列表：节目单"
+msgstr "Loend - Kava"
 
 #: /1080i/Includes_Views_PVR.xml
 msgctxt "#31020"
 msgid "List Outline"
-msgstr "列表：概要"
+msgstr "Loend - Kokkuvõte"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31021"
 msgid "Combined Expanded"
-msgstr "混合：展开"
+msgstr "Kombo - Laiendatud"
 
 msgctxt "#31022"
 msgid "items"
-msgstr "项"
+msgstr "üksust"
 
 msgctxt "#31023"
 msgid "Loading"
-msgstr "正在加载"
+msgstr "Laaditakse"
 
 msgctxt "#31024"
 msgid "Critics Consensus"
-msgstr "影评人共识"
+msgstr "Kriitikute koondhinne"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31025"
 msgid "Item"
-msgstr "项目"
+msgstr "Üksus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31026"
 msgid "Hub"
-msgstr "枢纽"
+msgstr "Huub"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31027"
 msgid "Focus widgets on startup"
-msgstr "启动时聚焦小部件"
+msgstr "Käivitamisel fookus vidinatel"
 
 msgctxt "#31028"
 msgid "Outline"
-msgstr "概要"
+msgstr "Kokkuvõte"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31029"
 msgid "Images"
-msgstr "图片"
+msgstr "Pildid"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31030"
 msgid "Critics"
-msgstr "影评人"
+msgstr "Kriitikud"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31031"
 msgid "HDR type"
-msgstr "HDR 类型"
+msgstr "HDR tüüp"
 
 #: /1080i/DialogPVRChannelManager.xml
 msgctxt "#31032"
 msgid "Apply"
-msgstr "应用"
+msgstr "Rakenda"
 
 msgctxt "#31033"
 msgid "People"
-msgstr "人物"
+msgstr "Inimesed"
 
 msgctxt "#31034"
 msgid "Cast member"
-msgstr "演员"
+msgstr "Osatäitja"
 
 msgctxt "#31035"
 msgid "Crew member"
-msgstr "剧组成员"
+msgstr "Meeskonna liige"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31036"
 msgid "Limited widgets use Show More folder item"
-msgstr "受限小部件显示"更多""
+msgstr "Kuva piiratud vidinates üksus \"Veel\""
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31037"
 msgid "Side submenu"
-msgstr "侧边子菜单"
+msgstr "Külje alammenüü"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31038"
 msgid "Directing"
-msgstr "导演"
+msgstr "Lavastamine"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31039"
 msgid "Writing"
-msgstr "编剧"
+msgstr "Stsenaarium"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31040"
 msgid "List Flixart 2"
-msgstr "列表：Flixart 2"
+msgstr "Loend - Flixart 2"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31041"
 msgid "Similar"
-msgstr "相似"
+msgstr "Sarnane"
 
 #: /1080i/Dialog_DialogShortcuts.xml
 msgctxt "#31042"
 msgid "Jump to widget"
-msgstr "跳转至小部件"
+msgstr "Hüppa vidina juurde"
 
 #: /1080i/Custom_1115_Window_Shortcuts.xml
 msgctxt "#31043"
 msgid "Tray"
-msgstr "托盘"
+msgstr "Alaserv"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31044"
 msgid "Viewtypes"
-msgstr "视图类型"
+msgstr "Vaatetüübid"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31045"
 msgid "Landscape"
-msgstr "横幅"
+msgstr "Rõhtpilt"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31046"
 msgid "No Results"
-msgstr "无结果"
+msgstr "Tulemusi pole"
 
 #: /1080i/Custom_1154_Dialog_SearchDiscover_Sort.xml
 msgctxt "#31047"
 msgid "Popularity"
-msgstr "热度"
+msgstr "Populaarsus"
 
 #: /1080i/Custom_1115_Window_Shortcuts.xml
 msgctxt "#31048"
 msgid "tiles"
-msgstr "磁贴"
+msgstr "ruutu"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31049"
 msgid "Customise shortcuts and widgets"
-msgstr "个性化主页布局"
+msgstr "Kohanda otseteid ja vidinaid"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31050"
 msgid "Crew"
-msgstr "剧组"
+msgstr "Meeskond"
 
 #: /1080i/Custom_1153_Dialog_SearchDiscover_Actors.xml
 msgctxt "#31051"
 msgid "Person"
-msgstr "人物"
+msgstr "Isik"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31052"
 msgid "Sound"
-msgstr "音效"
+msgstr "Heli"
 
 msgctxt "#31053"
 msgid "Profile"
-msgstr "配置文件"
+msgstr "Profiil"
 
 msgctxt "#31054"
 msgid "Liked by"
-msgstr "喜欢："
+msgstr "Meeldis"
 
 msgctxt "#31055"
 msgid "out of"
@@ -284,745 +284,720 @@ msgstr "/"
 
 msgctxt "#31056"
 msgid "critics"
-msgstr "位影评人"
+msgstr "kriitikut"
 
 msgctxt "#31057"
 msgid "Years Old"
-msgstr "岁"
+msgstr "aastane"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31058"
 msgid "Wrap"
-msgstr "列表循环"
+msgstr "Lõputu kerimine"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31059"
 msgid "Side"
-msgstr "左键行为"
+msgstr "Külg"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31060"
 msgid "Slide"
-msgstr "沉浸模式"
+msgstr "Liug"
 
 #: /shortcuts/template.xml
 msgctxt "#31061"
 msgid "User rating"
-msgstr "用户评分"
+msgstr "Kasutajahinne"
 
 #: /shortcuts/template.xml
 msgctxt "#31062"
 msgid "Playlist order"
-msgstr "播放列表顺序"
+msgstr "Esitusloendi suund"
 
 #: /shortcuts/template.xml
 msgctxt "#31063"
 msgid "Watched episodes"
-msgstr "已观看剧集"
+msgstr "Vaadatud episoodid"
 
 msgctxt "#31064"
 msgid "Awards"
-msgstr "奖项"
+msgstr "Auhinnad"
 
 msgctxt "#31065"
 msgid "Creator"
-msgstr "创作者"
+msgstr "Looja"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31066"
 msgid "Discover"
-msgstr "探索"
+msgstr "Avasta"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31067"
 msgid "Cinematography"
-msgstr "摄影指导"
+msgstr "Operaatoritöö"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31068"
 msgid "Experimental"
-msgstr "实验性"
+msgstr "Eksperimentaalne"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31069"
 msgid "Background video"
-msgstr "背景视频"
+msgstr "Taustavideo"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31070"
 msgid "Fixed aspect ratio"
-msgstr "固定宽高比"
+msgstr "Fikseeritud kuvasuhe"
 
 msgctxt "#31071"
 msgid "Playback Speed"
-msgstr "播放速度"
+msgstr "Taasesituse kiirus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31072"
 msgid "Art Department"
-msgstr "艺术部门"
+msgstr "Kunstiosakond"
 
 msgctxt "#31073"
 msgid "mins"
-msgstr "分钟"
+msgstr "min"
 
 msgctxt "#31074"
 msgid "hr"
-msgstr "小时"
+msgstr "t"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31075"
 msgid "Editing"
-msgstr "剪辑"
+msgstr "Muutmine"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31076"
 msgid "Starring"
-msgstr "主演"
+msgstr "Peaosas"
 
 msgctxt "#31077"
 msgid "More Information"
-msgstr "更多信息"
+msgstr "Lisateave"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31078"
 msgid "Use fake label textboxes"
-msgstr "禁用剧情简介自动滚动"
+msgstr "Kasuta võltssiltidega tekstivälju"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31079"
 msgid "improves performance on Omega"
-msgstr "提升性能"
+msgstr "parandab jõudlust Omegas"
 
 #: /1080i/Dialog_DialogCustom.xml
 msgctxt "#31080"
 msgid "Button"
-msgstr "按钮"
+msgstr "Nupp"
 
 #: /1080i/Dialog_DialogCustom.xml
 msgctxt "#31081"
 msgid "Others"
-msgstr "其他"
+msgstr "Muud"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31082"
 msgid "Ratings style"
-msgstr "评分样式"
+msgstr "Hinde stiil"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31083"
 msgid "Combined"
-msgstr "混合"
+msgstr "Kombo"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31084"
 msgid "Preload hubs during startup initialisation"
-msgstr "启动时预加载枢纽"
+msgstr "Huubide eellaadimine käivitusfaasis"
 
 msgctxt "#31085"
 msgid "Live TV"
-msgstr "电视直播"
+msgstr "Otsepilt"
 
 msgctxt "#31086"
 msgid "Customise options"
-msgstr "自定义选项"
-
-#: /1080i/Includes_Labels.xml
-msgctxt "#31087"
-msgid "Game Saves"
-msgstr "游戏存档"
+msgstr "Külgmenüü"
 
 #: /1080i/VideoOSDBookmarks.xml
 msgctxt "#31088"
 msgid "No bookmarks"
-msgstr "无书签"
+msgstr "Järjehoidjaid pole"
 
 #: /1080i/VideoOSDBookmarks.xml
 msgctxt "#31089"
 msgid "Add a bookmark here"
-msgstr "在此添加书签"
+msgstr "Lisa siia järjehoidja"
 
 msgctxt "#31090"
 msgid "In-Progress"
-msgstr "正在观看"
-
-#: /1080i/Includes_Labels.xml
-msgctxt "#31091"
-msgid "In-Game Saves"
-msgstr "游戏内存档"
+msgstr "Pooleli"
 
 #: /1080i/SkinSettings.xml /1080i/Includes_Shortcuts_Window.xml
 msgctxt "#31092"
 msgid "Detailed information"
-msgstr "详细信息"
-
-#: /1080i/Includes_SkinSettings.xml
-msgctxt "#31093"
-msgid "Cycle extra fanart"
-msgstr "轮播额外剧照"
+msgstr "Üksikasjalik teave"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31094"
 msgid "Mouse pointer size"
-msgstr "鼠标指针大小"
+msgstr "Hiirekursori suurus"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31095"
 msgid "Translations"
-msgstr "翻译"
-
-#: /1080i/Dialog_DialogPictureInfo.xml
-msgctxt "#31096"
-msgid "plays"
-msgstr "次"
-
-#: /1080i/Includes_DialogInfo.xml
-msgctxt "#31097"
-msgid "File details"
-msgstr "文件信息"
+msgstr "Tõlked"
 
 #: /1080i/SkinSettings.xml /1080i/Includes_Items.xml
 msgctxt "#31098"
 msgid "Gallery"
-msgstr "图库"
+msgstr "Galerii"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31099"
 msgid "Last aired"
-msgstr "上次播出"
+msgstr "Viimati eetris"
 
 #: /1080i/Includes_Views_Row.xml
 msgctxt "#31100"
 msgid "Row Board"
-msgstr "行：看板"
+msgstr "Rida - Tahvel"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31101"
 msgid "Wall Board"
-msgstr "墙：看板"
+msgstr "Sein - Tahvel"
 
 msgctxt "#31103"
 msgid "Widgets"
-msgstr "小部件"
+msgstr "Vidinad"
 
 msgctxt "#31105"
 msgid "Spotlight"
-msgstr "精彩聚焦"
+msgstr "Rambivalgus"
 
 msgctxt "#31108"
 msgid "Collections"
-msgstr "合集"
+msgstr "Kogumikud"
 
 msgctxt "#31111"
 msgid "Row Poster"
-msgstr "行：海报"
+msgstr "Rida - Plakat"
 
 msgctxt "#31112"
 msgid "Row Landscape"
-msgstr "行：横幅"
+msgstr "Rida - Rõhtpilt"
 
 msgctxt "#31113"
 msgid "Row Square"
-msgstr "行：方形"
+msgstr "Rida - Ruut"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31114"
 msgid "Hubs"
-msgstr "枢纽"
+msgstr "Huubid"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31115"
 msgid "Australian summer"
-msgstr "澳洲夏日"
+msgstr "Austraalia suvi"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31116"
 msgid "Winter frost"
-msgstr "冬日霜寒"
+msgstr "Talvine härmatis"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31117"
 msgid "RAM"
-msgstr "运行内存"
+msgstr "RAM"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31118"
 msgid "Expanded"
-msgstr "展开"
+msgstr "Laiendatud"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31119"
 msgid "EOTF and Gamut"
-msgstr "EOTF 与 色域"
+msgstr "EOTF ja Gamut"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31120"
 msgid "List Basic"
-msgstr "列表：基础"
+msgstr "Loend - Lihtne"
 
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31122"
 msgid "Watchlist"
-msgstr "待看列表"
+msgstr "Jälgimisloend"
 
 msgctxt "#31124"
 msgid "Indicator"
-msgstr "指示器"
+msgstr "Näidik"
 
 msgctxt "#31125"
 msgid "Invert Text Colour"
-msgstr "反转文本颜色"
+msgstr "Pööratud teksti värv"
 
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31128"
 msgid "Trending"
-msgstr "趋势"
+msgstr "Trendid"
 
 msgctxt "#31129"
 msgid "Up next in"
-msgstr "即将播放，剩余"
+msgstr "Järgmiseks"
 
 msgctxt "#31130"
 msgid "seconds"
-msgstr "秒"
+msgstr "sekundit"
 
 msgctxt "#31131"
 msgid "Continue watching in"
-msgstr "继续观看，剩余"
+msgstr "Jätka vaatamist:"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31134"
 msgid "Playing"
-msgstr "正在播放"
+msgstr "Esitamisel"
 
 #: /1080i/Includes_Views.xml
 msgctxt "#31135"
 msgid "Page"
-msgstr "页"
+msgstr "Leht"
 
 #: /1080i/SkinSettings.xml /1080i/Includes_Labels.xml
 msgctxt "#31137"
 msgid "Detailed"
-msgstr "详细"
+msgstr "Üksikasjalik"
 
 msgctxt "#31138"
 msgid "Aqua Classic"
-msgstr "水蓝经典"
+msgstr "Aqua Classic"
 
 msgctxt "#31139"
 msgid "Tropical Sunset"
-msgstr "热带日落"
+msgstr "Troopiline päikeseloojang"
 
 msgctxt "#31140"
 msgid "Miami Vaporwave"
-msgstr "迈阿密蒸汽波"
+msgstr "Miami Vaporwave"
 
 msgctxt "#31141"
 msgid "Plain Monochrome"
-msgstr "纯粹单色"
+msgstr "Mustvalge"
 
 msgctxt "#31142"
 msgid "Total Duration"
-msgstr "总时长"
+msgstr "Kogukestus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31143"
 msgid "Classic"
-msgstr "经典"
+msgstr "Klassikaline"
 
 msgctxt "#31145"
 msgid "Initialising Skin"
-msgstr "正在初始化皮肤"
+msgstr "Rüü laadimine"
 
 #: /1080i/Includes_Shortcuts_Window.xml
 msgctxt "#31147"
 msgid "More"
-msgstr "更多"
+msgstr "Veel"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31150"
 msgid "Categories"
-msgstr "分类"
+msgstr "Kategooriad"
 
 msgctxt "#31154"
 msgid "Misc options"
-msgstr "杂项选项"
+msgstr "Muud valikud"
 
 #: /1080i/Includes_Keyboard_Mini.xml
 msgctxt "#31158"
 msgid "Layout"
-msgstr "布局"
+msgstr "Asetus"
 
 #: /1080i/Custom_1120_VideoInfo_Details.xml
 msgctxt "#31159"
 msgid "Version"
-msgstr "版本"
+msgstr "Versioon"
 
 msgctxt "#31160"
 msgid "REC"
-msgstr "录制"
+msgstr "SALVESTA"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31162"
 msgid "Hide"
-msgstr "隐藏"
+msgstr "Peida"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31165"
 msgid "Seekbar behaviour on delayed pause"
-msgstr "延迟暂停时的进度条行为"
+msgstr "Otsiriba käitumine pikema pausi korral"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31166"
 msgid "Back"
-msgstr "返回"
+msgstr "Tagasi"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31167"
 msgid "Logo"
-msgstr "标志"
+msgstr "Logo"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31168"
 msgid "List Square"
-msgstr "列表：方形"
+msgstr "Loend - Ruut"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31169"
 msgid "Birthday"
-msgstr "生日"
+msgstr "Sünnipäev"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
 msgctxt "#31170"
 msgid "Note"
-msgstr "备注"
+msgstr "Märkus"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31171"
 msgid "On-screen keyboard size"
-msgstr "屏幕键盘大小"
+msgstr "Ekraaniklaviatuuri suurus"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31173"
 msgid "Scroll"
-msgstr "滚动"
+msgstr "Keri"
 
 msgctxt "#31174"
 msgid "Navigation"
-msgstr "导航"
+msgstr "Navigeerimine"
 
 msgctxt "#31177"
 msgid "Menus"
-msgstr "菜单"
+msgstr "Menüüd"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31179"
 msgid "Keyword"
-msgstr "关键词"
+msgstr "Märksõna"
 
 #: /1080i/Includes_DialogInfo.xml
 msgctxt "#31181"
 msgid "Scheduled"
-msgstr "已排程"
+msgstr "Plaanitud"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#31183"
 msgid "times"
-msgstr "次"
+msgstr "korda"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#31184"
 msgid "Ends"
-msgstr "结束"
+msgstr "Lõpeb"
 
 msgctxt "#31185"
 msgid "Autoscroll"
-msgstr "自动滚动"
+msgstr "Automaatne kerimine"
 
 msgctxt "#31186"
 msgid "Behaviour"
-msgstr "行为"
+msgstr "Käitumine"
 
 msgctxt "#31187"
 msgid "Autoscroll time interval"
-msgstr "自动滚动时间间隔"
+msgstr "Automaatse kerimise ajavahemik"
 
 msgctxt "#31188"
 msgid "Limit"
-msgstr "限制"
+msgstr "Limiit"
 
 msgctxt "#31189"
 msgid "Autoclose OSD after X seconds"
-msgstr "X 秒后自动关闭 OSD"
+msgstr "Peida inforiba X sekundi pärast"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#31194"
 msgid "Album duration"
-msgstr "专辑时长"
+msgstr "Albumi kestus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31195"
 msgid "Light"
-msgstr "浅色"
+msgstr "Hele"
 
 msgctxt "#31196"
 msgid "Up Next"
-msgstr "即将播放"
+msgstr "Järgmiseks"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31197"
 msgid "Skin theme"
-msgstr "皮肤主题"
+msgstr "Rüü teema"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#31198"
 msgid "Track duration"
-msgstr "曲目时长"
+msgstr "Loo kestus"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31199"
 msgid "Date and time"
-msgstr "日期与时间"
+msgstr "Kuupäev ja kellaaeg"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#31200"
 msgid "Added on"
-msgstr "添加于"
+msgstr "Lisatud"
 
 msgctxt "#31202"
 msgid "Ratings"
-msgstr "评分"
+msgstr "Hinded"
 
 msgctxt "#31203"
 msgid "Customise"
-msgstr "自定义"
+msgstr "Kohanda"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31204"
 msgid "Customise dialog background"
-msgstr "对话框背景"
+msgstr "Valikmenüü taust"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31205"
 msgid "Codecs and providers"
-msgstr "编解码器与媒体源"
+msgstr "Koodekid ja teenused"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31206"
 msgid "Item count"
-msgstr "项目数量"
+msgstr "Üksuste arv"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31207"
 msgid "Codecs"
-msgstr "编解码器"
+msgstr "Koodekid"
 
-#: /1080i/SkinSettings.xml /1080i/SkinSettings.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31208"
 msgid "Header"
-msgstr "页眉"
+msgstr "Ülanurk"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31209"
 msgid "Boxes"
-msgstr "方块"
+msgstr "Kastid"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31210"
 msgid "Series Premiere"
-msgstr "系列首映"
+msgstr "Sarja esilinastus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31211"
 msgid "Season Premiere"
-msgstr "季首映"
+msgstr "Hooaja esilinastus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31212"
 msgid "Mid-Season Premiere"
-msgstr "季中首播"
+msgstr "Hooaja teise poole algus"
 
 msgctxt "#31213"
 msgid "Visualisation settings"
-msgstr "可视化设置"
+msgstr "Visuaalide sätted"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31214"
 msgid "Series Finale"
-msgstr "电视剧完结"
+msgstr "Sarja finaal"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31215"
 msgid "Season Finale"
-msgstr "本季完结"
+msgstr "Hooaja finaal"
 
 msgctxt "#31216"
 msgid "Video decoder"
-msgstr "视频解码器"
+msgstr "Videodekooder"
 
 msgctxt "#31217"
 msgid "Pixel format"
-msgstr "像素格式"
+msgstr "Piksli vorming"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31218"
 msgid "Mid-Season Finale"
-msgstr "季中完结"
+msgstr "Hooaja esimese poole lõpp"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31220"
 msgid "Purple"
-msgstr "紫色"
+msgstr "Lilla"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31221"
 msgid "Slate"
-msgstr "石板灰"
+msgstr "Sinakashall"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31222"
 msgid "Coal"
-msgstr "煤黑"
+msgstr "Süsi"
 
 msgctxt "#31223"
 msgid "Gridlines"
-msgstr "网格线"
+msgstr "Ruudustik"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31224"
 msgid "Pink"
-msgstr "粉色"
+msgstr "Roosa"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31225"
 msgid "Chalk"
-msgstr "粉笔白"
+msgstr "Kriit"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31226"
 msgid "Blush"
-msgstr "胭脂粉"
+msgstr "Punane"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31227"
 msgid "Premiere"
-msgstr "首播"
+msgstr "Hooaja algud"
 
 #: /1080i/Custom_1115_Dialog_ColourPresets.xml
 msgctxt "#31228"
 msgid "Aqua"
-msgstr "水蓝"
+msgstr "Aqua"
 
 #: /1080i/Custom_1115_Dialog_ColourPresets.xml
 msgctxt "#31229"
 msgid "Vaporwave"
-msgstr "蒸汽波"
+msgstr "Vaporwave"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31230"
 msgid "Calendar"
-msgstr "日历"
+msgstr "Kalender"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31231"
 msgid "Customise highlight colours"
-msgstr "高亮颜色"
+msgstr "Esiletõstu värv"
 
 #: /1080i/Custom_1111_Dialog_ColourPicker.xml
 msgctxt "#31232"
 msgid "Gradient"
-msgstr "渐变"
+msgstr "Üleminekuvärv"
 
 msgctxt "#31233"
 msgid "Seek to"
-msgstr "跳转到"
+msgstr "Otsi"
 
 msgctxt "#31234"
 msgid "Customise indicators"
-msgstr "自定义指示器"
+msgstr "Kohanda näidikuid"
 
 msgctxt "#31235"
 msgid "Indicators"
-msgstr "指示器"
+msgstr "Näidikud"
 
 msgctxt "#31236"
 msgid "Collection"
-msgstr "合集"
+msgstr "Kogumik"
 
 msgctxt "#31237"
 msgid "Progress"
-msgstr "进度"
+msgstr "Edenemine"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31238"
 msgid "Coral"
-msgstr "珊瑚"
+msgstr "Korall"
 
 msgctxt "#31239"
 msgid "Footer"
-msgstr "页脚"
+msgstr "Alanurk"
 
 #: /1080i/Custom_1115_Dialog_ColourPresets.xml
 msgctxt "#31240"
 msgid "Tropical"
-msgstr "热带"
+msgstr "Troopiline"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31241"
 msgid "Colour scheme"
-msgstr "配色方案"
+msgstr "Värvilahendus"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31242"
 msgid "Blue Slate"
-msgstr "蓝灰"
+msgstr "Sinine"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31243"
 msgid "Midnight Purple"
-msgstr "午夜紫"
+msgstr "Kesköölilla"
 
 msgctxt "#31244"
 msgid "Now playing"
-msgstr "正在播放"
+msgstr "Esitamisel"
 
 msgctxt "#31245"
 msgid "Autoscroll labels"
-msgstr "标签自动滚动"
+msgstr "Automaatselt kerivad nimesildid"
 
 msgctxt "#31246"
 msgid "Autoscroll textboxes"
-msgstr "文本框自动滚动"
+msgstr "Automaatselt kerivad tekstiväljad"
 
 msgctxt "#31249"
 msgid "Waiting for PVR"
-msgstr "正在等待 PVR"
+msgstr "PVR ootel"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31250"
 msgid "Highlight"
-msgstr "高亮"
+msgstr "Esiletõst"
 
 msgctxt "#31252"
 msgid "Catch-up"
-msgstr "回看"
+msgstr "Järelvaatamine"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31254"
 msgid "Performance"
-msgstr "性能"
+msgstr "Jõudlus"
 
 msgctxt "#31255"
 msgid "Customise startup image"
-msgstr "启动图像"
+msgstr "Käivituspilt"
 
 msgctxt "#31256"
 msgid "Resource Usage"
-msgstr "资源使用情况"
+msgstr "Ressursikasutus"
 
 msgctxt "#31257"
 msgid "Memory"
-msgstr "内存"
+msgstr "Mälu"
 
 msgctxt "#31258"
 msgid "CPU"
@@ -1030,15 +1005,15 @@ msgstr "CPU"
 
 msgctxt "#31259"
 msgid "FPS"
-msgstr "帧率"
+msgstr "FPS"
 
 msgctxt "#31260"
 msgid "AR"
-msgstr "宽高比"
+msgstr "Kuvasuhe"
 
 msgctxt "#31261"
 msgid "px"
-msgstr "像素"
+msgstr "px"
 
 msgctxt "#31262"
 msgid "Hz"
@@ -1046,227 +1021,227 @@ msgstr "Hz"
 
 msgctxt "#31263"
 msgid "bits"
-msgstr "位"
+msgstr "bitti"
 
 msgctxt "#31264"
 msgid "Revenue"
-msgstr "票房"
+msgstr "Tulu"
 
 msgctxt "#31265"
 msgid "Budget"
-msgstr "预算"
+msgstr "Eelarve"
 
 msgctxt "#31270"
 msgid "Single image"
-msgstr "单张图片"
+msgstr "Üks pilt"
 
 msgctxt "#31271"
 msgid "Image folder"
-msgstr "图片文件夹"
+msgstr "Pildikaust"
 
 #: /1080i/Includes_Search_View.xml
 msgctxt "#31272"
 msgid "Searching"
-msgstr "正在搜索"
+msgstr "Otsimine"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31274"
 msgid "Icon"
-msgstr "图标"
+msgstr "Ikoon"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31275"
 msgid "Customise search"
-msgstr "自定义搜索"
+msgstr "Kohanda otsingut"
 
 msgctxt "#31279"
 msgid "Studio icons"
-msgstr "制作公司图标"
+msgstr "Stuudio ikoonid"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31281"
 msgid "Welcome"
-msgstr "欢迎"
+msgstr "Tere tulemast"
 
 #: /1080i/Includes_Shortcuts_Pallette.xml
 msgctxt "#31282"
 msgid "Widget"
-msgstr "小部件"
+msgstr "Vidin"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#31283"
 msgid "Played"
-msgstr "已播放"
+msgstr "Esitatud"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31284"
 msgid "Discover movies and tvshows on TMDb."
-msgstr "在 TMDb 上探索电影和电视剧。"
+msgstr "Avasta filme ja telesaateid TMDb abil."
 
 msgctxt "#31285"
 msgid "Classification (MPAA)"
-msgstr "分级 (MPAA)"
+msgstr "Vanusepiirang (MPAA)"
 
 msgctxt "#31286"
 msgid "Won"
-msgstr "获奖"
+msgstr "Võitnud"
 
 msgctxt "#31287"
 msgid "Nominated for"
-msgstr "提名"
+msgstr "Nomineeritud"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31288"
 msgid "Explore now."
-msgstr "立即探索。"
+msgstr "Leia midagi uut."
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31289"
 msgid "Touch mode"
-msgstr "触控模式"
+msgstr "Puuterežiim"
 
 #: /1080i/script-wikipedia.xml
 msgctxt "#31290"
 msgid "Attribution"
-msgstr "署名"
+msgstr "Omistamine"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31291"
 msgid "Search for movies$COMMA tvshows$COMMA and more."
-msgstr "搜索电影$COMMA 电视剧$COMMA 等更多内容。"
+msgstr "Otsi filme$COMMA sarju$COMMA ja muud."
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31292"
 msgid "Text labels"
-msgstr "文本标签"
+msgstr "Tekstisildid"
 
 msgctxt "#31293"
 msgid "Cast and more info"
-msgstr "演员及更多信息"
+msgstr "Osatäitjad ja lisateave"
 
 msgctxt "#31294"
 msgid "Bookmarks and chapters"
-msgstr "书签与章节"
+msgstr "Järjehoidjad ja peatükid"
 
 msgctxt "#31295"
 msgid "Channels"
-msgstr "频道"
+msgstr "Kanalid"
 
 msgctxt "#31296"
 msgid "Playlist"
-msgstr "播放列表"
+msgstr "Esitusloend"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31297"
 msgid "Extra fanart"
-msgstr "额外剧照"
+msgstr "Täiendav fännipilt"
 
 msgctxt "#31298"
 msgid "Movies and tv shows starring this actor"
-msgstr "该演员主演的电影和电视剧"
+msgstr "Selle näitleja filmid ja sarjad"
 
 msgctxt "#31299"
 msgid "Information is loading"
-msgstr "信息正在加载"
+msgstr "Teavet laaditakse"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31300"
 msgid "Customise window background"
-msgstr "窗口背景"
+msgstr "Akna taust"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31301"
 msgid "Crew"
-msgstr "剧组"
+msgstr "Meeskond"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31303"
 msgid "Customise fallback image folder"
-msgstr "备选图库目录"
+msgstr "Tagavarapiltide kaust"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31304"
 msgid "lists"
-msgstr "列表"
+msgstr "loendid"
 
 #: /1080i/Includes_DialogInfo.xml
 msgctxt "#31307"
 msgid "Instrument"
-msgstr "乐器"
+msgstr "Instrument"
 
 #: /1080i/Includes_DialogInfo.xml
 msgctxt "#31308"
 msgid "Mood"
-msgstr "心情"
+msgstr "Meeleolu"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31309"
 msgid "Glass"
-msgstr "玻璃"
+msgstr "Klaas"
 
 #: /1080i/Custom_1161_Dialog_Weather.xml
 msgctxt "#31310"
 msgid "Expand"
-msgstr "展开"
+msgstr "Laienda"
 
 #: /1080i/Custom_1161_Dialog_Weather.xml
 msgctxt "#31311"
 msgid "Weekly"
-msgstr "每周"
+msgstr "Kord nädalas"
 
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31319"
 msgid "View"
-msgstr "视图"
+msgstr "Vaade"
 
 #: /1080i/Includes_Views.xml
 msgctxt "#31320"
 msgid "Square"
-msgstr "方形"
+msgstr "Ruut"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31321"
 msgid "Select viewtypes"
-msgstr "自定义视图类型"
+msgstr "Vali vaatetüübid"
 
 #: /1080i/SkinSettings.xml /1080i/Includes_Labels.xml
 msgctxt "#31322"
 msgid "Age"
-msgstr "年龄"
+msgstr "Vanus"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31324"
 msgid "Content"
-msgstr "内容"
+msgstr "Sisu"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31328"
 msgid "Edit widgets"
-msgstr "编辑小部件"
+msgstr "Muuda vidinaid"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31329"
 msgid "Text"
-msgstr "文本"
+msgstr "Tekst"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31330"
 msgid "Crop"
-msgstr "裁剪"
+msgstr "Kärbi"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31331"
 msgid "Background style"
-msgstr "背景样式"
+msgstr "Taustapildi stiil"
 
 msgctxt "#31334"
 msgid "Comments"
-msgstr "评论"
+msgstr "Kommentaarid"
 
 #: /1080i/GameOSD.xml
 msgctxt "#31335"
 msgid "Game menu"
-msgstr "游戏菜单"
+msgstr "Mängude menüü"
 
 #: /1080i/GameOSD.xml
 msgctxt "#31336"
@@ -1276,1333 +1251,992 @@ msgstr "Select + X"
 #: /1080i/GameOSD.xml
 msgctxt "#31337"
 msgid "Select + Start"
-msgstr "Select + 开始"
+msgstr "Select + Start"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31338"
 msgid "Select + Right Stick"
-msgstr "Select + 右摇杆"
+msgstr "Select + Parem juhtkang"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31340"
 msgid "Reset skin to defaults"
-msgstr "重置皮肤为默认值"
+msgstr "Taasta rüü vaikeväärtused"
 
 msgctxt "#31346"
 msgid "More by this artist"
-msgstr "该艺术家的更多作品"
+msgstr "Veel sellelt esitajalt"
 
 #: /1080i/Includes_DialogInfo.xml
 msgctxt "#31347"
 msgid "Photography"
-msgstr "摄影"
+msgstr "Fotograafia"
 
 msgctxt "#31348"
 msgid "Channel EPG"
-msgstr "频道节目指南"
+msgstr "Kanali EPG"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31349"
 msgid "Up"
-msgstr "上"
+msgstr "Üles"
 
 msgctxt "#31350"
 msgid "Thanks"
-msgstr "致谢"
+msgstr "Tänud"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31353"
 msgid "Elapsed"
-msgstr "已播放"
+msgstr "Möödas"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31354"
 msgid "Remaining"
-msgstr "剩余"
+msgstr "Lõpuni jäänud"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31355"
 msgid "Seekbar time display"
-msgstr "进度条时间显示"
+msgstr "Otsimisriba aja kuvamine"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31356"
 msgid "Use online cast"
-msgstr "使用在线演员表"
+msgstr "Hangi näitlejaandmed veebist"
 
 #: /1080i/SkinSettings.xml /1080i/Includes_Items.xml
 msgctxt "#31357"
 msgid "Artwork Overlay"
-msgstr "封面叠加层"
+msgstr "Kattekiht"
 
 msgctxt "#31358"
 msgid "Waiting for plugins"
-msgstr "正在等待插件"
+msgstr "Pluginate ootel"
 
 #: /shortcuts/generator/data/setup/powermenu_item.xml
 msgctxt "#31359"
 msgid "Switch user"
-msgstr "切换用户"
+msgstr "Vaheta kasutajat"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31362"
 msgid "Side items"
-msgstr "侧边栏项目"
+msgstr "Külgmenüü üksused"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31363"
 msgid "Menu items"
-msgstr "菜单项目"
+msgstr "Menüü üksused"
 
 #: /shortcuts/powersubmenu.DATA.xml
 msgctxt "#31364"
 msgid "Reload"
-msgstr "重新载入"
+msgstr "Laadi uuesti"
 
 #: /1080i/DialogContextMenu.xml
 msgctxt "#31365"
 msgid "Node"
-msgstr "节点"
+msgstr "Sõlm"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31366"
 msgid "Uncropped"
-msgstr "未裁剪"
+msgstr "Kärpimata"
 
 #: /1080i/Includes_Search_View.xml
 msgctxt "#31368"
 msgid "Searching for"
-msgstr "正在搜索"
+msgstr "Otsitakse"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31369"
 msgid "Video file"
-msgstr "视频文件"
+msgstr "Videofail"
 
 #: /1080i/Custom_1172_Dialog_SideMenu.xml
 msgctxt "#31370"
 msgid "Switch profile"
-msgstr "切换配置文件"
+msgstr "Vaheta profiili"
 
 msgctxt "#31371"
 msgid "Sorted by"
-msgstr "排序方式"
+msgstr "Järjestus"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31372"
 msgid "Options tray"
-msgstr "选项图标"
+msgstr "Külgmenüü salv"
 
 #: /1080i/Includes_DialogInfo.xml
 msgctxt "#31373"
 msgid "from"
-msgstr "来自"
+msgstr "/"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31374"
 msgid "Reset skin settings to defaults"
-msgstr "重置皮肤设置为默认值"
+msgstr "Taasta rüü seadete vaikeväärtused"
 
 msgctxt "#31375"
 msgid "Install zip"
-msgstr "安装 Zip"
+msgstr "Paigalda zip failist"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31376"
 msgid "Reset discover search history"
-msgstr "清除探索与搜索历史记录"
+msgstr "Lähtesta 'Avasta' otsinguajalugu"
 
 #: /1080i/Includes_Shortcuts_Window.xml
 msgctxt "#31377"
 msgid "Next window"
-msgstr "下一个窗口"
+msgstr "Järgmine aken"
 
 msgctxt "#31378"
 msgid "Foreign"
-msgstr "外语"
+msgstr "Välismaine"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31379"
 msgid "Edit categories"
-msgstr "编辑分类"
+msgstr "Muuda kategooriaid"
 
 msgctxt "#31380"
 msgid "Forecast"
-msgstr "预报"
+msgstr "Ilmateade"
 
 msgctxt "#31381"
 msgid "Returning"
-msgstr "回归"
+msgstr "Naasev"
 
 msgctxt "#31382"
 msgid "All items"
-msgstr "所有项目"
+msgstr "Kõik üksused"
 
 msgctxt "#31383"
 msgid "Production"
-msgstr "制作"
+msgstr "Toodang"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31384"
 msgid "Tray labels"
-msgstr "托盘标签"
+msgstr "Alaserva tekstid"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31385"
 msgid "Secondary"
-msgstr "辅助功能"
+msgstr "Teisejärguline"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31386"
 msgid "Primary"
-msgstr "核心模块"
+msgstr "Peamine"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31387"
 msgid "Contextual"
-msgstr "上下文"
+msgstr "Kontekstipõhine"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31388"
 msgid "Seed"
-msgstr "种子"
+msgstr "Seeme"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31389"
 msgid "Parent widget"
-msgstr "父级小部件"
+msgstr "Ülemvidin"
 
 msgctxt "#31390"
 msgid "Release Year"
-msgstr "发行年份"
+msgstr "Avaldamise aasta"
 
 #: /1080i/Includes_Items.xml Shorter label for use in info dialog buttons
 msgctxt "#31393"
 msgid "Trailer"
-msgstr "预告片"
+msgstr "Treiler"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31394"
 msgid "Picture-in-picture video"
-msgstr "画中画视频"
+msgstr "Pilt-pildis video"
 
 msgctxt "#31396"
 msgid "Recent Movies"
-msgstr "最近电影"
+msgstr "Uued filmid"
 
 msgctxt "#31397"
 msgid "Recent Tv Shows"
-msgstr "最近电视剧"
+msgstr "Uued sarjad"
 
 msgctxt "#31398"
 msgid "New Movies"
-msgstr "最近添加的电影"
+msgstr "Uued filmid"
 
 msgctxt "#31399"
 msgid "New TV Shows"
-msgstr "最近添加的电视剧"
+msgstr "Uued sarjad"
 
 msgctxt "#31400"
 msgid "New Episodes"
-msgstr "最近添加的剧集"
+msgstr "Uued episoodid"
 
 msgctxt "#31401"
 msgid "New Artists"
-msgstr "最近添加的艺术家"
+msgstr "Uued esitajad"
 
 msgctxt "#31402"
 msgid "New Albums"
-msgstr "最近添加的专辑"
+msgstr "Uued albumid"
 
 msgctxt "#31403"
 msgid "In-Progress TV Shows"
-msgstr "正在观看的电视剧"
+msgstr "Pooleli sarjad"
 
 msgctxt "#31404"
 msgid "In-Progress Movies"
-msgstr "正在观看的电影"
+msgstr "Pooleli filmid"
 
 msgctxt "#31405"
 msgid "Top Albums"
-msgstr "热门专辑"
+msgstr "Hinnatuimad albumid"
 
 msgctxt "#31406"
 msgid "Top Rated Movies"
-msgstr "高分电影"
+msgstr "Hinnatuimad filmid"
 
 msgctxt "#31407"
 msgid "Top Rated TV Shows"
-msgstr "高分电视剧"
+msgstr "Hinnatuimad sarjad"
 
 msgctxt "#31408"
 msgid "Random Movies"
-msgstr "随机电影"
+msgstr "Juhuslikud filmid"
 
 msgctxt "#31409"
 msgid "Random TV Shows"
-msgstr "随机电视剧"
+msgstr "Juhuslikud sarjad"
 
 msgctxt "#31410"
 msgid "Random Episodes"
-msgstr "随机剧集"
+msgstr "Juhuslikud episoodid"
 
 msgctxt "#31411"
 msgid "Random Songs"
-msgstr "随机歌曲"
+msgstr "Juhuslikud laulud"
 
 msgctxt "#31412"
 msgid "Random Albums"
-msgstr "随机专辑"
+msgstr "Juhuslikud albumid"
 
 msgctxt "#31413"
 msgid "All Movies"
-msgstr "全部电影"
+msgstr "Kõik filmid"
 
 msgctxt "#31414"
 msgid "All TV Shows"
-msgstr "全部电视剧"
+msgstr "Kõik sarjad"
 
 msgctxt "#31415"
 msgid "Movies and TV Shows"
-msgstr "电影与电视剧"
+msgstr "Filmid ja sarjad"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31416"
 msgid "Secondary button"
-msgstr "按钮"
+msgstr "Lisanupp"
 
 msgctxt "#31417"
 msgid "Random Artists"
-msgstr "随机艺术家"
+msgstr "Juhuslikud esitajad"
 
 #: /1080i/Includes_Views_Row.xml
 msgctxt "#31418"
 msgid "Row Circle"
-msgstr "行：圆形"
+msgstr "Rida - Ring"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31419"
 msgid "Overview"
-msgstr "概要"
+msgstr "Ülevaade"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31420"
 msgid "Apps"
-msgstr "应用"
+msgstr "Rakendused"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31423"
 msgid "Card"
-msgstr "卡片"
+msgstr "Kaart"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31424"
 msgid "Board"
-msgstr "看板"
+msgstr "Tahvel"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31425"
 msgid "Labels"
-msgstr "标签"
+msgstr "Nimetused"
 
 #: /1080i/Home.xml
 msgctxt "#31427"
 msgid "Initialising"
-msgstr "正在初始化"
+msgstr "Laaditakse"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31428"
 msgid "Hide widget initialisation behind splash"
-msgstr "将小部件初始化过程隐藏在启动画面后"
+msgstr "Varja vidinate laadimine käivituspildiga"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31429"
 msgid "Chapters"
-msgstr "章节"
+msgstr "Peatükid"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31430"
 msgid "Customise style"
-msgstr "自定义样式"
+msgstr "Kohanda stiili"
 
 #: /1080i/SkinSettings.xml /1080i/Includes_Views_Row.xml
 msgctxt "#31431"
 msgid "Circle"
-msgstr "圆形"
+msgstr "Ring"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31432"
 msgid "Adaptive"
-msgstr "自适应"
+msgstr "Kohanduv"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31434"
 msgid "Video OSD"
-msgstr "视频 OSD"
+msgstr "Video OSD"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31435"
 msgid "TMDbHelper lookups"
-msgstr "TMDbHelper 查询"
+msgstr "TMDbHelper otsingud"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31438"
 msgid "Simple"
-msgstr "简洁"
+msgstr "Lihtne"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31439"
 msgid "Large"
-msgstr "大"
+msgstr "Suur"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31440"
 msgid "Extra Large"
-msgstr "超大"
+msgstr "Eriti suur"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31441"
 msgid "FlixArt Size"
-msgstr "FlixArt 尺寸"
+msgstr "FlixArt suurus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31442"
 msgid "Parent"
-msgstr "父级"
+msgstr "Ülemmenüü"
 
 #: /1080i/Settings.xml
 msgctxt "#31444"
 msgid "Customisation"
-msgstr "自定义"
+msgstr "Kohandamine"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31448"
 msgid "This category contains customisation options for"
-msgstr "此分类包含以下内容的自定义选项："
+msgstr "See jaotis sisaldab kohandamisvalikuid üksusele"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31450"
 msgid "Text only"
-msgstr "仅文本"
+msgstr "Ainult tekst"
 
 #: /1080i/Custom_1180_Wizard.xml
 msgctxt "#31451"
 msgid "Compound"
-msgstr "复合"
+msgstr "Ühend"
 
 #: /1080i/Custom_1180_Wizard.xml
 msgctxt "#31452"
 msgid "Composite"
-msgstr "合成"
+msgstr "Komposiit"
 
 #: /1080i/Custom_1115_Dialog_WideSettings.xml
 msgctxt "#31456"
 msgid "Prebuilt"
-msgstr "预置"
+msgstr "Eelseadistatud"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31457"
 msgid "Scrollbar"
-msgstr "滚动条"
+msgstr "Kerimisriba"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31458"
 msgid "Monochrome"
-msgstr "单色"
+msgstr "Mustvalge"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31459"
 msgid "Letter"
-msgstr "字母"
+msgstr "Täht"
 
 #: /1080i/SkinSettings.xml /1080i/MusicOSD.xml
 msgctxt "#31460"
 msgid "Customise visualisation"
-msgstr "自定义可视化效果"
+msgstr "Kohanda visuaale"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31461"
 msgid "Choose preset"
-msgstr "选择预设"
+msgstr "Vali eelseadistus"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31462"
 msgid "Wall Banner"
-msgstr "墙：横幅"
+msgstr "Sein - Bänner"
 
 #: /1080i/Custom_1161_Dialog_Weather.xml
 msgctxt "#31465"
 msgid "Rain chance"
-msgstr "降水概率"
+msgstr "Vihma võimalus"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31467"
 msgid "Tiles configuration"
-msgstr "磁贴配置"
+msgstr "Ruutude seadistus"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31468"
 msgid "Tile layout"
-msgstr "磁贴布局"
+msgstr "Ruutude asatus"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31469"
 msgid "Choose shortcut"
-msgstr "选择快捷方式"
+msgstr "Vali otsetee"
 
 #: /1080i/Custom_1161_Dialog_Weather.xml
 msgctxt "#31470"
 msgid "Wind gusts"
-msgstr "阵风"
+msgstr "Tuulepuhangud"
 
 #: /1080i/Custom_1161_Dialog_Weather.xml
 msgctxt "#31471"
 msgid "Fire danger"
-msgstr "火险等级"
+msgstr "Tuleoht"
 
 #: /1080i/Custom_1161_Dialog_Weather.xml
 msgctxt "#31472"
 msgid "Rain since 9am"
-msgstr "自上午9点起的降雨量"
+msgstr "Vihma algab kell 9.00"
 
 #: /1080i/Custom_1161_Dialog_Weather.xml
 msgctxt "#31473"
 msgid "Radar"
-msgstr "雷达"
+msgstr "Radar"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31476"
 msgid "This category contains acknowledgements, contributions, and thanks."
-msgstr "此分类包含致谢、贡献者与鸣谢信息。"
+msgstr ""
+"See jaotis tänab inimesi, kes on aidanud arendamisel või toetanud "
+"annetustega."
 
 #: /1080i/SkinSettings.xml /1080i/Includes_Items.xml
 msgctxt "#31477"
 msgid "Progress percentage"
-msgstr "进度百分比"
+msgstr "Edenemise protsent"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31478"
 msgid "by"
-msgstr "由"
+msgstr "autor"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31479"
 msgid "List Media"
-msgstr "列表：媒体"
+msgstr "Loend - Meedia"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31480"
 msgid "List Flixart"
-msgstr "列表：Flixart"
+msgstr "Loend - Flixart"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31482"
 msgid "Trailers"
-msgstr "预告片"
+msgstr "Treilerid"
 
 #: /1080i/Custom_1123_Dialog_Trailer.xml
 msgctxt "#31483"
 msgid "Replay"
-msgstr "重播"
+msgstr "Esita uuesti"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31484"
 msgid "Pause"
-msgstr "暂停"
+msgstr "Paus"
 
 #: /1080i/Custom_1123_Dialog_Trailer.xml
 msgctxt "#31485"
 msgid "Stop"
-msgstr "停止"
+msgstr "Peata"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31486"
 msgid "Dialog"
-msgstr "对话框"
+msgstr "Valikmenüü"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31487"
 msgid "and"
-msgstr "和"
+msgstr "ja"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31490"
 msgid "Cancelled"
-msgstr "已取消"
+msgstr "Tühistatud"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31491"
 msgid "Miscellaneous"
-msgstr "杂项"
+msgstr "Mitmesugust"
 
 #: /1080i/Includes_Actions.xml
 msgctxt "#31492"
 msgid "Add-ons hub"
-msgstr "插件枢纽"
+msgstr "Lisamoodulite huub"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31493"
 msgid "Ended"
-msgstr "已完结"
+msgstr "Lõppenud"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31494"
 msgid "Rebuild"
-msgstr "重新生成"
+msgstr "Loo uuesti"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31495"
 msgid "Unlocked"
-msgstr "已解锁"
+msgstr "Lukustamata"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31496"
 msgid "Customise widgets"
-msgstr "自定义小部件"
+msgstr "Kohanda vidinaid"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31497"
 msgid "Minimise menu"
-msgstr "最小化菜单"
+msgstr "Minimeeri menüü"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31498"
 msgid "Released"
-msgstr "已发行"
+msgstr "Avaldatud"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31499"
 msgid "In-Production"
-msgstr "制作中"
+msgstr "Tootmisel"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31500"
 msgid "There were no search results found"
-msgstr "未找到搜索结果"
+msgstr "Otsinguvasteid ei leitud"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31501"
 msgid "Please try another search"
-msgstr "请尝试其他关键词"
+msgstr "Proovi teist otsingut"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31502"
 msgid "More Options"
-msgstr "更多选项"
+msgstr "Rohkem valikuid"
 
 #: /1080i/DialogVideoVersion.xml
 msgctxt "#31503"
 msgid "Extras"
-msgstr "花絮"
+msgstr "Lisamaterjal"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31504"
 msgid "Planned"
-msgstr "计划中"
+msgstr "Plaanitud"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31505"
 msgid "Skin user login screen on startup"
-msgstr "启动时显示皮肤用户登录界面"
+msgstr "Rüü kasutaja sisselogimisekraan käivitamisel"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31506"
 msgid "Individual skin user widget configurations"
-msgstr "为每个用户单独保存小部件配置"
+msgstr "Rüü kasutaja isiklikud vidina seadistused"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31507"
 msgid "pseudo profiles"
-msgstr "伪配置文件"
+msgstr "pseudoprofiilid"
 
 #: /1080i/Custom_1195_SkinUserLoginScreen.xml
 msgctxt "#31508"
 msgid "Loading skin user profiles"
-msgstr "正在加载皮肤用户配置文件"
+msgstr "Rüü kasutajaprofiilide laadimine"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31509"
 msgid "Holiday"
-msgstr "节日"
+msgstr "Püha"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31510"
 msgid "Holiday themes"
-msgstr "节日主题"
+msgstr "Jõuluteema"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31511"
 msgid "Shortcut"
-msgstr "快捷方式"
+msgstr "Otsetee"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31515"
 msgid "Main Items"
-msgstr "主项目"
+msgstr "Põhiüksused"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31516"
 msgid "Edit items"
-msgstr "编辑项目"
+msgstr "Muuda üksusi"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31517"
 msgid "Reverse order"
-msgstr "反向排序"
+msgstr "Pööratud"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31519"
 msgid "Empty widget placeholder"
-msgstr "显示无内容小部件"
+msgstr "Tühi vidina kohatäitja"
 
 #: /1080i/Includes_Weather_Radar.xml
 msgctxt "#31520"
 msgid "Cloudiness"
-msgstr "云量"
+msgstr "Pilvisus"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31522"
 msgid "Hiding empty widgets may cause positioning issues after video playback."
-msgstr "隐藏空小部件可能会导致视频播放后界面布局错位。"
+msgstr ""
+"Tühja vidina peitmine võib pärast video taasesitust põhjustada probleeme "
+"asukohaga."
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31523"
-msgid "It is recommended to delete any unused widgets from your configuration instead of hiding them."
-msgstr "建议从配置中删除未使用的小部件，而不是将其隐藏。"
+msgid ""
+"It is recommended to delete any unused widgets from your configuration "
+"instead of hiding them."
+msgstr ""
+"Soovitatav on kõik kasutamata vidinad seadistusest kustutada, mitte neid "
+"peita."
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31524"
-msgid "There is also an overhead refresh cost to performance associated with hiding empty widgets."
-msgstr "隐藏空小部件还会带来额外的刷新开销，影响性能。"
+msgid ""
+"There is also an overhead refresh cost to performance associated with hiding "
+"empty widgets."
+msgstr ""
+"Peidetud vidinate uuesti laadimine aeglustab ka kasutajaliidese jõudlust."
 
 #: /1080i/Includes_Weather_Radar.xml
 msgctxt "#31525"
 msgid "Visibility"
-msgstr "能见度"
+msgstr "Nähtavus"
 
 #: /1080i/Includes_Weather_Forecast.xml
 msgctxt "#31526"
 msgid "Hour"
-msgstr "小时"
+msgstr "Tund"
 
 #: /1080i/Includes_Weather_Forecast.xml
 msgctxt "#31527"
 msgid "Later"
-msgstr "稍后"
+msgstr "Hiljem"
 
 #: /1080i/Includes_Weather_Forecast.xml
 msgctxt "#31528"
 msgid "Particulate"
-msgstr "颗粒物"
+msgstr "Osakesed"
 
 #: /1080i/Includes_Weather_Forecast.xml
 msgctxt "#31529"
 msgid "Ozone"
-msgstr "臭氧"
+msgstr "Osoon"
 
 #: /1080i/Includes_Weather_Forecast.xml
 msgctxt "#31530"
 msgid "Solar radiation"
-msgstr "太阳辐射"
+msgstr "Päikesekiirgus"
 
 #: /1080i/Includes_Weather_Forecast.xml
 msgctxt "#31531"
 msgid "Carbon monoxide"
-msgstr "一氧化碳"
+msgstr "Vingugaas"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31533"
 msgid "Add list"
-msgstr "添加列表"
+msgstr "Lisa loend"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31535"
 msgid "Restore"
-msgstr "还原"
+msgstr "Taasta"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31536"
 msgid "Choose fallback image folder"
-msgstr "选择备选图库目录"
+msgstr "Vali varupiltide kaust"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts.xml
 msgctxt "#31537"
 msgid "Edit submenu items"
-msgstr "编辑子菜单项目"
+msgstr "Muuda alammenüü üksusi"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31538"
 msgid "Customise viewtypes"
-msgstr "自定义视图类型"
+msgstr "Kohanda vaatetüüpe"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31539"
 msgid "Use online gallery"
-msgstr "使用在线图库"
+msgstr "Hangi galeriipildid veebist"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31540"
 msgid "Use online collection"
-msgstr "使用在线合集"
+msgstr "Hangi kogumikuandmed veebist"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31541"
 msgid "Next episode"
-msgstr "下一集"
+msgstr "Järgmine episood"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31542"
 msgid "Last episode"
-msgstr "上一集"
+msgstr "Eelmine episood"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31543"
 msgid "Anticipated"
-msgstr "备受期待"
+msgstr "Oodatud"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31544"
 msgid "Airing"
-msgstr "播出中"
+msgstr "Eetris"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31545"
 msgid "Premiering"
-msgstr "首播中"
+msgstr "Esilinastub"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31547"
 msgid "Yesterday"
-msgstr "昨天"
+msgstr "Eile"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31550"
 msgid "Change the visibility level of skin settings."
-msgstr "更改皮肤设置的显示级别。"
+msgstr "Muuda rüü seadete kuvamise taset."
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31552"
 msgid "Settings level"
-msgstr "设置级别"
+msgstr "Seadete tase"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31554"
 msgid "Wall Poster"
-msgstr "墙：海报"
+msgstr "Sein - Plakat"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31555"
 msgid "Wall Landscape"
-msgstr "墙：横幅"
+msgstr "Sein - Rõhtpilt"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31556"
 msgid "Wall Square"
-msgstr "墙：方形"
+msgstr "Sein - Ruut"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31557"
 msgid "Wall Circle"
-msgstr "墙：圆形"
+msgstr "Sein - Ring"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31560"
 msgid "Bright White"
-msgstr "亮白"
+msgstr "Erevalge"
 
 #: /1080i/Includes_Views_Row.xml
 msgctxt "#31563"
 msgid "Row Card"
-msgstr "行：卡片"
+msgstr "Rida - Kaart"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31564"
 msgid "General appearance and widget layout customisations."
-msgstr "通用外观与小部件布局自定义。"
+msgstr "Üldise välimuse ja vidinate asetuse kohandamine."
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31565"
 msgid "Detailed adjustments and additional hub customisations."
-msgstr "更细致的调整及额外枢纽自定义。"
+msgstr "Täppisseadistamine ja täiendavad huubide kohandused."
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31566"
 msgid "Development tools and experimental options."
-msgstr "额外的开发工具与实验性选项。"
+msgstr "Arendustööristad ja eksperimentaalsed valikud."
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31567"
 msgid "Add a single item or a list of several items?"
-msgstr "添加单个项目，还是添加包含多个项目的列表？"
+msgstr "Kas lisada üks üksus või loend mitme üksusega?"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31568"
 msgid "Add new item(s)"
-msgstr "添加新项目"
+msgstr "Lisa uusi üksusi"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31569"
 msgid "Add item"
-msgstr "添加项目"
+msgstr "Lisa üksus"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31570"
 msgid "Delete item(s)"
-msgstr "删除项目"
+msgstr "Kustuta üksusi"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31571"
 msgid "Delete a single item or a list of several items?"
-msgstr "删除单个项目，还是删除包含多个项目的列表？"
+msgstr "Kas kustutada üks või mitu üksust?"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31572"
 msgid "Delete item"
-msgstr "删除项目"
+msgstr "Kustuta üksus"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31573"
 msgid "Delete list"
-msgstr "删除列表"
+msgstr "Kustuta loend"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31576"
 msgid "Seekbar delayed pause time"
-msgstr "进度条延迟暂停时间"
+msgstr "Otsiriba pikema pausi aeg"
 
 #: /1080i/Includes_ButtonMenu.xml
 msgctxt "#31579"
 msgid "Prev"
-msgstr "上一屏"
+msgstr "Eelmine"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31580"
 msgid "Combined List"
-msgstr "混合：列表"
+msgstr "Kombo - Loend"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31581"
 msgid "List Expanded"
-msgstr "列表：展开"
+msgstr "Loend - Laiendatud"
 
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31583"
 msgid "Prevent reload"
-msgstr "禁止重新加载"
+msgstr "Takista uuestilaadimine"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31585"
 msgid "Overlay"
-msgstr "叠加层"
+msgstr "Kattekiht"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31586"
 msgid "Customise shortcuts"
-msgstr "自定义快捷方式"
+msgstr "Kohanda otseteid"
 
 #: /1080i/Includes_OSD.xml
 msgctxt "#31594"
 msgid "Press down"
-msgstr "按(下)键"
+msgstr "Vajuta alla"
 
 #: /1080i/Includes_OSD.xml
 msgctxt "#31595"
 msgid "Press right"
-msgstr "按(右)键"
+msgstr "Vajuta paremale"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31596"
 msgid "Additional icons"
-msgstr "附加图标"
+msgstr "Lisaikoonid"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31597"
 msgid "Confirmation"
-msgstr "确认"
+msgstr "Kinnitus"
 
 #: /1080i/Dialogs_DialogGameControllers.xml
 msgctxt "#31598"
 msgid "Controllers"
-msgstr "控制器"
+msgstr "Juhtsedamed"
 
 #: /1080i/Dialogs_DialogPVRGroupManager.xml
 msgctxt "#31599"
 msgid "Ungrouped"
-msgstr "未分组"
+msgstr "Rühmitamata"
 
 #: /1080i/Includes_Info.xml
 msgctxt "#31600"
 msgid "Ends at"
-msgstr "结束于"
+msgstr "Lõpeb kell"
 
 #: /1080i/Custom_1115_Window_Shortcuts.xml
 msgctxt "#31601"
 msgid "Edit tray"
-msgstr "编辑托盘"
+msgstr "Kohanda alaserva"
 
 #: /1080i/Dialog_DialogContextMenu.xml
 msgctxt "#31602"
 msgid "Add shortcut"
-msgstr "添加快捷方式"
+msgstr "Lisa otsetee"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31604"
 msgid "Additional"
-msgstr "更多"
+msgstr "Lisafunktsioonid"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31605"
 msgid "Next aired"
-msgstr "下次播出"
-
-msgctxt "#32000"
-msgid "Display mode"
-msgstr "显示模式"
-
-msgctxt "#32001"
-msgid "Video mode"
-msgstr "视频模式"
-
-msgctxt "#32002"
-msgid "Color space"
-msgstr "色彩空间"
-
-msgctxt "#32003"
-msgid "Mb/s"
-msgstr "Mb/s"
-
-msgctxt "#32004"
-msgid "Bit depth"
-msgstr "位深"
-
-msgctxt "#32005"
-msgid "Decoder"
-msgstr "解码器"
-
-msgctxt "#32006"
-msgid "VS10 engine"
-msgstr "VS10 引擎"
-
-msgctxt "#32007"
-msgid "More"
-msgstr "更多"
-
-msgctxt "#32008"
-msgid "Video queue"
-msgstr "视频队列"
-
-msgctxt "#32009"
-msgid "Video queue data"
-msgstr "视频队列数据"
-
-msgctxt "#32010"
-msgid "Audio queue"
-msgstr "音频队列"
-
-msgctxt "#32011"
-msgid "Audio queue data"
-msgstr "音频队列数据"
-
-msgctxt "#32012"
-msgid "Kb/s"
-msgstr "Kb/s"
-
-msgctxt "#32013"
-msgid "Playback time"
-msgstr "播放时间"
-
-msgctxt "#32014"
-msgid "Processor"
-msgstr "处理器"
-
-msgctxt "#32015"
-msgid "Metadata"
-msgstr "元数据"
-
-msgctxt "#32016"
-msgid "Profile"
-msgstr "配置文件"
-
-msgctxt "#32017"
-msgid "Level"
-msgstr "级别"
-
-msgctxt "#32018"
-msgid "RPU"
-msgstr "指导层"
-
-msgctxt "#32019"
-msgid "Base Layer"
-msgstr "基础层"
-
-msgctxt "#32020"
-msgid "Enhancement Layer"
-msgstr "增强层"
-
-msgctxt "#32021"
-msgid "Enhancement Layer Type"
-msgstr "增强层类型"
-
-msgctxt "#32022"
-msgid "Metadata"
-msgstr "元数据"
-
-msgctxt "#32023"
-msgid "Pixel format"
-msgstr "像素格式"
-
-msgctxt "#32024"
-msgid "Aspect ratio"
-msgstr "宽高比"
-
-msgctxt "#32025"
-msgid "HDR10 MDL"
-msgstr "HDR10 MDL"
-
-msgctxt "#32026"
-msgid "HDR10 MaxCLL/FALL"
-msgstr "HDR10 MaxCLL/FALL"
-
-msgctxt "#32027"
-msgid "Media source"
-msgstr "媒体源"
-
-msgctxt "#32028"
-msgid "Unknown"
-msgstr "未知"
-
-msgctxt "#32029"
-msgid "On"
-msgstr "开启"
-
-msgctxt "#32030"
-msgid "Off"
-msgstr "关闭"
-
-msgctxt "#32031"
-msgid "Deinterlacing"
-msgstr "去隔行"
-
-msgctxt "#32032"
-msgid "Player cache"
-msgstr "播放器缓存"
-
-msgctxt "#32033"
-msgid "N/A"
-msgstr "不适用"
-
-msgctxt "#32034"
-msgid "Memory usage"
-msgstr "内存使用"
-
-msgctxt "#32035"
-msgid "Passthrough"
-msgstr "直通"
-
-msgctxt "#32036"
-msgid "AML FPS"
-msgstr "AML 帧率"
-
-msgctxt "#32037"
-msgid "DV Configuration"
-msgstr "杜比视界配置"
-
-msgctxt "#32038"
-msgid "DV Levels Metadata"
-msgstr "杜比视界级别元数据"
-
-msgctxt "#32039"
-msgid "HDR Static Metadata"
-msgstr "HDR 静态元数据"
-
-msgctxt "#32040"
-msgid "cd/m²"
-msgstr "cd/m²"
-
-msgctxt "#32041"
-msgid "RPU MDL"
-msgstr "RPU MDL"
-
-msgctxt "#32042"
-msgid "RPU MaxCLL/FALL"
-msgstr "RPU MaxCLL/FALL"
-
-msgctxt "#32043"
-msgid "FLL MIN / MAX / Ø"
-msgstr "FLL 最小 / 最大 / 平均"
-
-msgctxt "#32044"
-msgid "PQ  MIN / MAX / Ø"
-msgstr "PQ 最小 / 最大 / 平均"
-
-msgctxt "#32045"
-msgid "12-bit"
-msgstr "12 位"
-
-msgctxt "#32046"
-msgid "Codec"
-msgstr "编解码器"
-
-msgctxt "#32047"
-msgid "Bitrate"
-msgstr "比特率"
-
-msgctxt "#32048"
-msgid "VS10 status"
-msgstr "VS10 状态"
-
-msgctxt "#32051"
-msgid "Input"
-msgstr "输入"
-
-msgctxt "#32052"
-msgid "Audio language"
-msgstr "音频语言"
-
-msgctxt "#32053"
-msgid "Subtitle language"
-msgstr "字幕语言"
-
-msgctxt "#32054"
-msgid "Video"
-msgstr "视频"
-
-msgctxt "#32055"
-msgid "Output"
-msgstr "输出"
-
-msgctxt "#32056"
-msgid "Audio"
-msgstr "音频"
-
-msgctxt "#32057"
-msgid "Top left"
-msgstr "左上"
-
-msgctxt "#32058"
-msgid "Top center"
-msgstr "顶部居中"
-
-msgctxt "#32059"
-msgid "Top right"
-msgstr "右上"
-
-msgctxt "#32060"
-msgid "Codec logos (OSD)"
-msgstr "编解码器标识（OSD）"
-
-msgctxt "#32061"
-msgid "Codec logos (PlayerProcessInfo)"
-msgstr "编解码器标识（播放器进程信息）"
-
-msgctxt "#32062"
-msgid "Codec logos (Start)"
-msgstr "编解码器标识（启动）"
-
-msgctxt "#32063"
-msgid "Position of codec logos"
-msgstr "编解码器标识位置"
-
-msgctxt "#32064"
-msgid "Original"
-msgstr "原始"
-
-msgctxt "#32065"
-msgid "VS10"
-msgstr "VS10"
-
-msgctxt "#32066"
-msgid "Audio codec"
-msgstr "音频编解码器"
-
-msgctxt "#32067"
-msgid "L5 Active Offsets"
-msgstr "L5 活动偏移"
-
-msgctxt "#32068"
-msgid "Version"
-msgstr "版本"
-
-msgctxt "#32069"
-msgid "Bit depth"
-msgstr "位深"
-
-msgctxt "#32070"
-msgid "EOTF & Gamut"
-msgstr "EOTF 与色域"
-
-msgctxt "#32071"
-msgid "Codec logos (Duration)"
-msgstr "编解码器标识（持续时间）"
-
-msgctxt "#32072"
-msgid "Time for codec logos"
-msgstr "编解码器标识显示时间"
-
-msgctxt "#32073"
-msgid "PlayerProcessInfo"
-msgstr "播放器进程信息"
-
-msgctxt "#32074"
-msgid "PlayerProcessInfo mode"
-msgstr "播放器进程信息模式"
-
-msgctxt "#32075"
-msgid "second"
-msgstr "秒"
-
-msgctxt "#32076"
-msgid "Show file name in PlayerProcessInfo"
-msgstr "在播放器进程信息中显示文件名"
-
-msgctxt "#32077"
-msgid "Modern"
-msgstr "现代"
-
-msgctxt "#32078"
-msgid "Classic"
-msgstr "经典"
-
-msgctxt "#32079"
-msgid "Original"
-msgstr "原始"
-
-msgctxt "#32080"
-msgid "Optional"
-msgstr "可选"
-
-msgctxt "#32081"
-msgid "Show file name and path in the version selection"
-msgstr "在版本选择中显示文件名和路径"
-
-msgctxt "#32082"
-msgid "Customise video osd"
-msgstr "自定义视频 OSD"
-
-msgctxt "#32083"
-msgid "Customise video info"
-msgstr "自定义视频信息"
-
-msgctxt "#32084"
-msgid "Show two-row information bar"
-msgstr "显示双行信息栏"
-
-msgctxt "#32085"
-msgid "DiscArt"
-msgstr "光盘封面"
-
-msgctxt "#32086"
-msgid "Rotating disc"
-msgstr "旋转光盘"
-
-msgctxt "#32087"
-msgid "Decoding"
-msgstr "解码"
-
-msgctxt "#32088"
-msgid "System"
-msgstr "系统"
-
-msgctxt "#32089"
-msgid "Info line"
-msgstr "信息栏"
+msgstr "Järgmisena eetris"
