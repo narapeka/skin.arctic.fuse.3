@@ -137,7 +137,10 @@
     <include name="List_Layout_Dialog_VideoVersions">
         <param name="selected">false</param>
         <definition>
-            <include condition="$PARAM[selected]">Part_List_Highlight</include>
+            <control type="group">
+                <animation effect="fade" start="100" end="50" condition="!Control.HasFocus($PARAM[id])">Conditional</animation>
+                <include condition="$PARAM[selected]">Part_List_Highlight</include>
+            </control>
             <control type="group">
                 <left>40</left>
                 <right>40</right>
@@ -170,7 +173,7 @@
                     </control>
                     <control type="textbox" condition="Window.IsActive(selectvideoversion)">
                         <left>$PARAM[item_h]</left>
-                        <right>150</right>
+                        <right>40</right>
                         <top>65</top>
                         <height>73</height>
                         <font>font_tinys</font>
