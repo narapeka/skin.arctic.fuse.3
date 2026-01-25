@@ -13,7 +13,10 @@
                 <param name="header">[CAPITALIZE]$LOCALIZE[10116][/CAPITALIZE]</param>
                 <param name="include_items">DialogPictureInfo_PlayerProcessInfo_Items</param>
                 <param name="include_picture">DialogPictureInfo_Video</param>
-                <param name="dialog_size">Dimension_DialogHugeMenu</param>
+                <param name="dialog_size">Dimension_DialogMainMenu</param>
+                <param name="dialog_right">693</param>
+                <param name="itemline">$INFO[Player.FileNameAndPath]</param>
+                <param name="include_itemline">!String.IsEmpty(Player.FileNameAndPath)</param>
             </include>
         </control>
 

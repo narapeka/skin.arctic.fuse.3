@@ -410,6 +410,7 @@
                     </control>
                 </control>
             </control>
+            <include condition="$PARAM[hasbuttons]">DialogSelect_Versions_Buttons</include>
             <control type="group">
                 <visible>Skin.HasSetting(Filename.DialogSelect)</visible>
                 <include>Animation_BounceIn_Dialog</include>
