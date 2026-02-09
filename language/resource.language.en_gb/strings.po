@@ -538,6 +538,11 @@ msgctxt "#31109"
 msgid "Edit group"
 msgstr ""
 
+#: /1080i/Includes_Info.xml
+msgctxt "#31110"
+msgid "Starts at"
+msgstr ""
+
 msgctxt "#31111"
 msgid "Row Poster"
 msgstr ""
@@ -585,9 +590,19 @@ msgctxt "#31120"
 msgid "List Basic"
 msgstr ""
 
+#: /1080i/Dialog_FileBrowser.xml
+msgctxt "#31121"
+msgid "Mirror"
+msgstr ""
+
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31122"
 msgid "Watchlist"
+msgstr ""
+
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31123"
+msgid "Plot line"
 msgstr ""
 
 msgctxt "#31124"

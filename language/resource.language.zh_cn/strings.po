@@ -33,7 +33,7 @@ msgstr "混合：方形"
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31003"
 msgid "Combined Landscape"
-msgstr "混合：横幅"
+msgstr "混合：横版"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31004"
@@ -233,7 +233,7 @@ msgstr "视图类型"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31045"
 msgid "Landscape"
-msgstr "横幅"
+msgstr "横版"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31046"
@@ -293,7 +293,7 @@ msgstr "岁"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31058"
 msgid "Wrap"
-msgstr "列表循环"
+msgstr "循环环绕"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31059"
@@ -303,7 +303,7 @@ msgstr "侧边栏"
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31060"
 msgid "Slide"
-msgstr "沉浸模式"
+msgstr "滑动"
 
 #: /shortcuts/template.xml
 msgctxt "#31061"
@@ -515,6 +515,11 @@ msgctxt "#31104"
 msgid "Position"
 msgstr "位置"
 
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31104"
+msgid "Position"
+msgstr "位置"
+
 msgctxt "#31105"
 msgid "Spotlight"
 msgstr "精彩聚焦"
@@ -524,9 +529,29 @@ msgctxt "#31106"
 msgid "Top"
 msgstr "顶部"
 
+#: /1080i/Includes_Labels.xml
+msgctxt "#31106"
+msgid "Top"
+msgstr "顶部"
+
+#: /1080i/Dialog_DialogGameControllers.xml
+msgctxt "#31107"
+msgid "Edit buttons"
+msgstr "编辑按钮"
+
 msgctxt "#31108"
 msgid "Collections"
 msgstr "合集"
+
+#: /1080i/Dialog_DialogPVRGroupManager.xml
+msgctxt "#31109"
+msgid "Edit group"
+msgstr "编辑分组"
+
+#: /1080i/Includes_Info.xml
+msgctxt "#31110"
+msgid "Starts at"
+msgstr "开始于"
 
 msgctxt "#31111"
 msgid "Row Poster"
@@ -534,7 +559,7 @@ msgstr "行：海报"
 
 msgctxt "#31112"
 msgid "Row Landscape"
-msgstr "行：横幅"
+msgstr "行：横版"
 
 msgctxt "#31113"
 msgid "Row Square"
@@ -575,10 +600,20 @@ msgctxt "#31120"
 msgid "List Basic"
 msgstr "列表：基础"
 
+#: /1080i/Dialog_FileBrowser.xml
+msgctxt "#31121"
+msgid "Mirror"
+msgstr "镜像"
+
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31122"
 msgid "Watchlist"
 msgstr "待看列表"
+
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31123"
+msgid "Plot line"
+msgstr "剧情单行"
 
 msgctxt "#31124"
 msgid "Indicator"
@@ -2108,7 +2143,7 @@ msgstr "墙：海报"
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31555"
 msgid "Wall Landscape"
-msgstr "墙：横幅"
+msgstr "墙：横版"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31556"
