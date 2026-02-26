@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fonts>
 
-    <fontset id="Default (Unicode)" unicode="true">
+    <fontset id="Default" unicode="true">
         <include content="Font_Default">
             <param name="font_bold">resource://resource.font.robotocjksc/Inter-Unicode-Bold.ttf</param>
             <param name="font_regular">resource://resource.font.robotocjksc/Inter-Unicode-Regular.ttf</param>
@@ -16,7 +16,7 @@
         </include>
     </fontset>
 
-    <fontset id="Default" unicode="false">
+    <fontset id="Default (Non-Unicode)" unicode="false">
         <include>Font_Default</include>
     </fontset>
     
