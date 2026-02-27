@@ -916,8 +916,8 @@
         <include content="DialogCustom_Ratings_Items_Template">
             <param name="id">8009</param>
             <param name="groupid">8109</param>
-            <param name="label">Letterboxd</param>
-            <param name="type">Letterboxd</param>
+            <param name="label">Douban</param>
+            <param name="type">Douban</param>
             <param name="item">$PARAM[item]</param>
             <param name="content">$PARAM[content]</param>
         </include>

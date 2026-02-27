@@ -86,6 +86,7 @@
                     <param name="control">panel</param>
                     <param name="orientation">vertical</param>
                     <param name="offset_y">40</param>
+                    <param name="itemlayout_h">380</param>
                     <preloaditems>0</preloaditems>
                     <top>290</top>
                     <bottom>-40</bottom>

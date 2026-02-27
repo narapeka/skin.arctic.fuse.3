@@ -278,6 +278,7 @@
                 <control type="group">
                     <include>Home_Reposition</include>
                     <visible>!Skin.HasSetting(HomeSwitcher.DisableSearch)</visible>
+                    <top>20</top>
                     <left>-20</left>
                     <width>80</width>
                     <control type="image">
@@ -329,6 +330,7 @@
 
     <include name="Home_Switcher_Right_Buttons">
         <control type="grouplist">
+            <include>Home_Reposition</include>
             <include content="Object_Right" condition="Skin.HasSetting(HomeSwitcher.DisableSearch)">
                 <param name="right">-40</param>
             </include>
