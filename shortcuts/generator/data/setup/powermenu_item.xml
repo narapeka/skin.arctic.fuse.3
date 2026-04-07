@@ -51,10 +51,14 @@
             <value>16</value>
         </rule>
     </rules>
-    <rules name="item_quickjump_command">
+    <rules name="item_closemenu_command">
         <rule>
-            <condition>{item_quickjump}!=</condition>
-            <value>SetFocus($MATH[{item_quickjump} + 500])</value>
+            <condition>{item_path}!=Custom_Submenu</condition>
+            <value>Close</value>
+        </rule>
+        <rule>
+            <condition>True</condition>
+            <value>noop</value>
         </rule>
     </rules>
 </contents>

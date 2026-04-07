@@ -40,12 +40,16 @@
     </include>
 
     <include name="DialogCustom_Resizer_Backing">
-        <control type="group">
-            <include>Animation_BounceIn_Dialog</include>
-            <include content="Part_Dialog_Backing_Resizeable">
-                <param name="id">$PARAM[id]</param>
-            </include>
-        </control>
+        <param name="visible">true</param>
+        <definition>
+            <control type="group">
+                <visible>$PARAM[visible]</visible>
+                <include>Animation_BounceIn_Dialog</include>
+                <include content="Part_Dialog_Backing_Resizeable">
+                    <param name="id">$PARAM[id]</param>
+                </include>
+            </control>
+        </definition>
     </include>
 
     <include name="DialogCustom_Favourites">
@@ -56,12 +60,17 @@
         <param name="include_list">DialogCustom_Favourites_List</param>
         <param name="dialog_size">Dimension_DialogWideMenu</param>
         <param name="resize">false</param>
+        <param name="visible">true</param>
         <definition>
-            <include>Part_Dim_Overlay</include>
+            <include content="Part_Dim_Overlay">
+                <param name="visible">$PARAM[visible]</param>
+            </include>
             <include condition="$PARAM[resize]" content="DialogCustom_Resizer_Backing">
                 <param name="id">$PARAM[id]</param>
+                <param name="visible">$PARAM[visible]</param>
             </include>
             <control type="group">
+                <visible>$PARAM[visible]</visible>
                 <include content="Part_Dialog_Backing" condition="![$PARAM[resize]]">
                     <param name="dialog_size">$PARAM[dialog_size]</param>
                 </include>
@@ -78,7 +87,11 @@
                         <include content="Part_ItemPage">
                             <param name="id">$PARAM[id]</param>
                         </include>
-                        <include>Part_CloseButton</include>
+                        <include content="Part_CloseButton">
+                            <param name="id">$PARAM[closebutton_id]</param>
+                            <param name="groupid">$PARAM[closebutton_groupid]</param>
+                            <param name="onclick">$PARAM[closebutton_onclick]</param>
+                        </include>
                     </control>
                     <control type="group">
                         <include>Size_Group_Body</include>
@@ -919,8 +932,8 @@
         <include content="DialogCustom_Ratings_Items_Template">
             <param name="id">8009</param>
             <param name="groupid">8109</param>
-            <param name="label">Letterboxd</param>
-            <param name="type">Letterboxd</param>
+            <param name="label">Douban</param>
+            <param name="type">Douban</param>
             <param name="item">$PARAM[item]</param>
             <param name="content">$PARAM[content]</param>
         </include>
@@ -1499,58 +1512,6 @@
             <label>$LOCALIZE[31461]</label>
             <onclick>ActivateWindow(visualisationpresetlist)</onclick>
             <visible>Visualisation.HasPresets</visible>
-        </include>
-    </include>
-    <include name="DialogCustom_PowerTile_Items">
-        <include content="Settings_Button">
-            <param name="id">80$PARAM[item]5</param>
-            <param name="control">button</param>
-            <param name="dialog">true</param>
-            <label>$LOCALIZE[31025] $PARAM[item]</label>
-            <label2>$INFO[Skin.String(OptionsTiles.0$PARAM[item].Include)]</label2>
-            <visible>$PARAM[visible]</visible>
-
-            <onclick condition="!Skin.String(OptionsTiles.0$PARAM[item].Include,Profile) + !Skin.String(OptionsTiles.0$PARAM[item].Include,Settings) + !Skin.String(OptionsTiles.0$PARAM[item].Include,Weather) + !Skin.String(OptionsTiles.0$PARAM[item].Include,SystemInfo)">Skin.SetString(OptionsTiles.0$PARAM[item].Include,Settings)</onclick>
-            <onclick condition="Skin.String(OptionsTiles.0$PARAM[item].Include,Settings)">Skin.SetString(OptionsTiles.0$PARAM[item].Include,Profile)</onclick>
-            <onclick condition="Skin.String(OptionsTiles.0$PARAM[item].Include,Profile)">Skin.SetString(OptionsTiles.0$PARAM[item].Include,NowPlaying)</onclick>
-            <onclick condition="Skin.String(OptionsTiles.0$PARAM[item].Include,NowPlaying)">Skin.SetString(OptionsTiles.0$PARAM[item].Include,Weather)</onclick>
-            <onclick condition="Skin.String(OptionsTiles.0$PARAM[item].Include,Weather)">Skin.SetString(OptionsTiles.0$PARAM[item].Include,SystemInfo)</onclick>
-            <onclick condition="Skin.String(OptionsTiles.0$PARAM[item].Include,SystemInfo)">Skin.SetString(OptionsTiles.0$PARAM[item].Include,Custom)</onclick>
-        </include>
-
-        <include content="Settings_Button">
-            <param name="id">80$PARAM[item]6</param>
-            <param name="control">button</param>
-            <param name="dialog">true</param>
-            <label> - $LOCALIZE[31469]</label>
-            <label2>$INFO[Skin.String(OptionsTiles.0$PARAM[item].Path)]</label2>
-            <visible>$PARAM[visible]</visible>
-            <onclick>SetProperty(Shortcuts.Groupings.Links,Links,Home)</onclick>
-            <onclick>RunScript(script.skinvariables,set_shortcut=OptionsTiles.0$PARAM[item])</onclick>
-            <visible>Skin.String(OptionsTiles.0$PARAM[item].Include,Custom)</visible>
-        </include>
-
-        <include content="Settings_Button">
-            <param name="id">80$PARAM[item]7</param>
-            <param name="control">button</param>
-            <param name="dialog">true</param>
-            <label> - $LOCALIZE[21899]</label>
-            <label2>$INFO[Skin.String(OptionsTiles.0$PARAM[item].Label)]</label2>
-            <visible>$PARAM[visible]</visible>
-            <onclick>Skin.SetString(OptionsTiles.0$PARAM[item].Label)</onclick>
-            <visible>Skin.String(OptionsTiles.0$PARAM[item].Include,Custom)</visible>
-        </include>
-
-        <include content="Settings_ButtonImage">
-            <param name="id">80$PARAM[item]8</param>
-            <param name="groupid">82$PARAM[item]8</param>
-            <param name="control">button</param>
-            <param name="dialog">true</param>
-            <param name="icon">$INFO[Skin.String(OptionsTiles.0$PARAM[item].Icon)]</param>
-            <label> - $LOCALIZE[31274]</label>
-            <visible>$PARAM[visible]</visible>
-            <onclick>Skin.SetImage(OptionsTiles.0$PARAM[item].Icon,special://skin/extras/icons/)</onclick>
-            <visible>Skin.String(OptionsTiles.0$PARAM[item].Include,Custom)</visible>
         </include>
     </include>
 
