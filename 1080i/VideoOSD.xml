@@ -237,7 +237,7 @@
             </control>
 
             <control type="group">
-                <visible>[!Pvr.IsPlayingTv + !String.IsEmpty(Player.Art(discart)) + !Skin.HasSetting(OSD.DiscArt)]</visible>
+                <visible>[!Pvr.IsPlayingTv + !String.IsEmpty(Player.Art(discart)) + String.IsEqual(Skin.String(OSD.ArtworkStyle),DiscArt)]</visible>
                 <left>1455</left>
                 <top>400</top>
 
@@ -273,6 +273,49 @@
                 <animation effect="slide" start="0" end="500" time="750">WindowClose</animation>
                 <animation effect="slide" start="0" end="500" time="750" condition="Control.HasFocus(6006) | Control.HasFocus(6007) | Control.HasFocus(6008) | Control.HasFocus(6009)">
                     WindowClose
+                </animation>
+            </control>
+			
+            <control type="group">
+                <visible>[!Pvr.IsPlayingTv + !String.IsEmpty(Player.Art(discart)) + String.IsEqual(Skin.String(OSD.ArtworkStyle),VHSArt)]</visible>
+                <left>1315</left>
+                <top>510</top>
+				
+                <!-- VHS Background -->
+                <control type="image">
+                    <right>90</right>
+                    <width>500</width>
+                    <height>280</height>
+                    <texture colordiffuse="shadow_hard">common/white.png</texture>
+                </control>
+                <control type="image">
+                    <width>538</width>
+                    <height>300</height>
+                    <texture>common/vhs.png</texture>
+                </control>
+
+                <control type="image">
+                    <left>150</left>
+                    <top>93</top>
+                    <width>239</width>
+                    <height>134</height>
+                    <texture background="true" diffuse="diffuse/landscape_w410_h231.png">$INFO[Player.Art(landscape)]</texture>
+                    <aspectratio>scale</aspectratio>
+                </control>
+
+                <animation type="WindowOpen">
+                    <effect type="rotate" start="-90" end="0" time="1000" center="auto" tween="linear" easing="in" />
+                    <effect type="slide" start="500" end="0" time="2000" tween="back" easing="out" />
+                </animation>
+				
+                <animation type="WindowClose">
+                    <effect type="slide" start="0" end="500" time="500" />
+                </animation>
+				
+                <animation condition="Control.HasFocus(6006) | Control.HasFocus(6007) | Control.HasFocus(6008) | Control.HasFocus(6009)">
+                    <effect type="rotate" start="0" end="-90" time="1000" center="auto" tween="linear" easing="in" />
+                    <effect type="slide" start="0" end="700" time="2000" tween="back" easing="inout" />
+                        WindowClose
                 </animation>
             </control>
         </control>

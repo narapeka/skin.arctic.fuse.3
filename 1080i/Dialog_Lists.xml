@@ -157,32 +157,49 @@
                         <param name="is_defaulticon">[False]</param>
                     </include>
                     <control type="group">
+                        <include content="List_Layout_Dialog_Labels">
+                            <param name="item_h">$PARAM[item_h]</param>
+                            <param name="selected">$PARAM[selected]</param>
+                            <param name="label">$VAR[Label_Version_Title]</param>
+                            <param name="label2">$VAR[Label_VideoQuality]$VAR[Label_HDRCodec, • ,]$INFO[ListItem.VideoAspect, • ,:1]$VAR[Label_ListItem_AudioCodec_Version, • ,] $VAR[Label_ListItem_AudioChannels] $VAR[Label_ListItem_AudioCodec_Spartial]</param>
+                            <param name="label2_visible">!String.IsEmpty(ListItem.VideoCodec)</param>
+                        </include>
+                        <animation effect="slide" start="0" end="0,-20" condition="!String.IsEmpty(ListItem.Property(AudioLanguage.1)) | !String.IsEmpty(ListItem.Property(SubtitleLanguage.1))">Conditional</animation>
+                    </control>
+                    <control type="group">
                         <left>$PARAM[item_h]</left>
-                        <top>5</top>
-                        <height>60</height>
+                        <height>30</height>
+                        <centertop>50%</centertop>
+                        <visible>!String.IsEmpty(ListItem.Property(AudioLanguage.1)) | !String.IsEmpty(ListItem.Property(SubtitleLanguage.1))</visible>
+                        <animation effect="slide" start="0" end="0,20" condition="true">Conditional</animation>
                         <control type="label">
                             <left>-10</left>
                             <include condition="$PARAM[selected]">Color_SelectedText</include>
                             <textcolor>dialog_fg_70</textcolor>
                             <selectedcolor>dialog_fg_70</selectedcolor>
                             <disabledcolor>dialog_fg_30</disabledcolor>
-                            <label>$VAR[Label_Version_Title]</label>
-                            <visible>true</visible>
+                            <font>font_tiny</font>
+                            <label>$VAR[Label_AudioLanguages,,]$VAR[Label_SubtitleLanguages, • ,]</label>
+                            <height>30</height>
+                            <bottom>0</bottom>
                         </control>
-                        <animation effect="slide" start="0" end="0,-20" condition="!String.IsEmpty(ListItem.Property(AudioLanguage.1)) | !String.IsEmpty(ListItem.Property(SubtitleLanguage.1))">Conditional</animation>
                     </control>
-                    <control type="textbox" condition="Window.IsActive(selectvideoversion)">
+                    <control type="group">
                         <left>$PARAM[item_h]</left>
-                        <right>40</right>
-                        <top>65</top>
-                        <height>73</height>
-                        <font>font_tinys</font>
-                        <include condition="$PARAM[selected]">Color_SelectedText</include>
-                        <textcolor>dialog_fg_70</textcolor>
-                        <selectedcolor>dialog_fg_70</selectedcolor>
-                        <disabledcolor>dialog_fg_30</disabledcolor>
-                        <label>$INFO[ListItem.FileNameAndPath]</label>
-                        <aligny>top</aligny>
+                        <height>80</height>
+                        <centertop>50%</centertop>
+                        <animation effect="slide" start="0" end="0,20" condition="true">Conditional</animation>
+                        <control type="label">
+                            <left>-10</left>
+                            <include condition="$PARAM[selected]">Color_SelectedText</include>
+                            <textcolor>dialog_fg_70</textcolor>
+                            <selectedcolor>dialog_fg_70</selectedcolor>
+                            <disabledcolor>dialog_fg_30</disabledcolor>
+                            <font>font_tiny</font>
+                            <label>$LOCALIZE[180]: $INFO[ListItem.Duration]</label>
+                            <height>30</height>
+                            <bottom>0</bottom>
+                        </control>
                     </control>
                 </control>
             </control>

@@ -747,6 +747,7 @@
                         <param name="colordiffuse">$PARAM[colordiffuse]</param>
                         <param name="icon">$PARAM[icon]</param>
                         <param name="diffuse">$PARAM[diffuse]</param>
+                        <param name="fallback">$PARAM[fallback]</param>
                 	</include>
                 </control>
                 <nested />
@@ -757,8 +758,7 @@
                 	<top>35</top>
                 	<textcolor>$PARAM[textcolor]</textcolor>
                 	<selectedcolor>$PARAM[textcolor]</selectedcolor>
-                	<label>$PARAM[label]</label>
-                	<font>$PARAM[font]</font>
+                	<label fallback="$PARAM[fallback_role]">$PARAM[name]</label>
                 </include>
         	</control>
         </definition>
@@ -1073,13 +1073,19 @@
         <definition>
             <control type="group">
                 <nested />
-                <bottom>0</bottom>
-                <right>0</right>
+                <centerbottom>0</centerbottom>
+                <right>25</right>
                 <width>64</width>
                 <height>64</height>
 
                 <!-- Visibility of Group -->
                 <include content="Object_Indicator_Visible">
+                    <param name="listitem">$PARAM[listitem]</param>
+                </include>
+
+                <!-- Focused Item -->
+                <include content="Object_Indicator_Selected" condition="$PARAM[selected]">
+                    <param name="shadow">$PARAM[shadow]</param>
                     <param name="listitem">$PARAM[listitem]</param>
                 </include>
 

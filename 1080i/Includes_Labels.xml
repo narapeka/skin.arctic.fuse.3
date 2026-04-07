@@ -109,12 +109,12 @@
     </variable>
 
     <variable name="Label_Settings_InfoText">
-        <value condition="System.HasVisibleModalDialog | Control.HasFocus(60) | Control.HasFocus(20)">$INFO[System.BuildVersionCode,CoreELEC ]$INFO[System.AddonVersion(skin.arctic.fuse.3),• Arctic Fuse 3 • , (Hybrid)]</value>
+        <value condition="System.HasVisibleModalDialog | Control.HasFocus(60) | Control.HasFocus(20)">$INFO[System.BuildVersionCode,CoreELEC ]$INFO[System.AddonVersion(skin.arctic.fuse.3),• Arctic Fuse 3 • , (p3i)]</value>
         <value condition="Window.IsVisible(SettingsCategory.xml) + [ControlGroup(3).HasFocus() | ControlGroup(5).HasFocus()]">$INFO[Control.GetLabel(6)]</value>
         <value condition="Window.IsVisible(SkinSettings.xml) + [Control.HasFocus(10000) | String.IsEmpty(Window.Property(InfoText.Header))]">$INFO[Container(10000).ListItem.Label2]</value>
         <value condition="Window.IsVisible(SkinSettings.xml) + !String.IsEmpty(Window.Property(InfoText.Header))">$INFO[Window.Property(InfoText.Message)]</value>
         <value condition="Window.IsVisible(addonbrowser) + Control.HasFocus(50)">$INFO[Container(50).ListItem.AddonName,, • ]$INFO[Container(50).ListItem.AddonVersion,v,]$INFO[Container(50).ListItem.AddonOrigin, • ,]</value>
-        <value>$INFO[System.BuildVersionCode,CoreELEC ]$INFO[System.AddonVersion(skin.arctic.fuse.3),• Arctic Fuse 3 • , (Hybrid)]</value>
+        <value>$INFO[System.BuildVersionCode,CoreELEC ]$INFO[System.AddonVersion(skin.arctic.fuse.3),• Arctic Fuse 3 • , (p3i)]</value>
     </variable>
 
     <variable name="Label_Settings_NavigationOnBack">
@@ -1377,7 +1377,7 @@
     </variable>
 
     <variable name="Label_Overlay_PlotBox">
-        <value>$VAR[Label_Overlay_Tagline,[B][COLOR=dialog_fg_90]$LOCALIZE[202][/COLOR][/B][CR],[CR][CR]]$VAR[Label_Plot_TMDbHelper,[B][COLOR=dialog_fg_90]$LOCALIZE[31028][/COLOR][/B][CR],]$VAR[Label_Overlay_Critics,[CR][CR],]$VAR[Label_Overlay_Directing,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31038][/COLOR][/B][CR],]$VAR[Label_Overlay_Writing,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31039][/COLOR][/B][CR],]$VAR[Label_Overlay_TopCast,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31076][/COLOR][/B][CR],]$VAR[Label_Overlay_Production,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31383][/COLOR][/B][CR],]$VAR[Label_Overlay_Sound,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31052][/COLOR][/B][CR],]$VAR[Label_Overlay_ArtDepartment,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31072][/COLOR][/B][CR],]$VAR[Label_Overlay_Cinematography,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31067][/COLOR][/B][CR],]$VAR[Label_Overlay_Editing,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31075][/COLOR][/B][CR],]$INFO[Window(Home).Property(TMDbHelper.ListItem.Awards),[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31064][/COLOR][/B][CR],]$VAR[Label_Overlay_AwardsWon]$VAR[Label_Overlay_AwardsNominated]$VAR[Label_Overlay_Providers,[CR][CR][B][COLOR=dialog_fg_90]JustWatch[/COLOR][/B][CR],]$VAR[Label_Overlay_FileDetails,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[561] $LOCALIZE[33029][/COLOR][/B],]$INFO[Window.Property(filepath),[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[21801][/COLOR][/B][CR],]</value>
+        <value>$VAR[Label_Overlay_Tagline,[B][COLOR=dialog_fg_90]$LOCALIZE[202][/COLOR][/B][CR],[CR][CR]]$VAR[Label_Plot_TMDbHelper,[B][COLOR=dialog_fg_90]$LOCALIZE[31028][/COLOR][/B][CR],]$VAR[Label_Overlay_Critics,[CR][CR],]$VAR[Label_Overlay_Directing,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31038][/COLOR][/B][CR],]$VAR[Label_Overlay_Writing,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31039][/COLOR][/B][CR],]$VAR[Label_Overlay_TopCast,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31076][/COLOR][/B][CR],]$VAR[Label_Overlay_Production,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31383][/COLOR][/B][CR],]$VAR[Label_Overlay_Sound,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31052][/COLOR][/B][CR],]$VAR[Label_Overlay_ArtDepartment,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31072][/COLOR][/B][CR],]$VAR[Label_Overlay_Cinematography,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31067][/COLOR][/B][CR],]$VAR[Label_Overlay_Editing,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31075][/COLOR][/B][CR],]$INFO[Window(Home).Property(TMDbHelper.ListItem.Awards),[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[31064][/COLOR][/B][CR],]$VAR[Label_Overlay_AwardsWon]$VAR[Label_Overlay_AwardsNominated]$VAR[Label_Overlay_Providers,[CR][CR][B][COLOR=dialog_fg_90]JustWatch[/COLOR][/B][CR],]$VAR[Label_Overlay_FileDetails,[CR][CR][B][COLOR=dialog_fg_90]$LOCALIZE[561] $LOCALIZE[33029][/COLOR][/B],]</value>
     </variable>
 
     <variable name="Label_Overlay_1114_PlotBox">
@@ -1435,7 +1435,7 @@
     </variable>
 	
     <variable name="OSDCodecLogosStartupTimerLabel">
-        <value condition="Skin.HasSetting(osd.useOneSecondCodecLogos)">1 $LOCALIZE[32075]</value>
+        <value condition="Skin.HasSetting(osd.useOneSecondCodecLogos)">1 $LOCALIZE[31975]</value>
         <value condition="Skin.HasSetting(osd.useTwoSecondsCodecLogos)">2 $LOCALIZE[31130]</value>
         <value condition="Skin.HasSetting(osd.useThreeSecondsCodecLogos)">3 $LOCALIZE[31130]</value>
         <value condition="Skin.HasSetting(osd.useFourSecondsCodecLogos)">4 $LOCALIZE[31130]</value>
@@ -1454,30 +1454,36 @@
     </variable>
 	
     <variable name="OSDCodecLogosStartupLabel">
-        <value condition="Skin.HasSetting(osd.useleftCodecStartupLogos)">$LOCALIZE[32057]</value>
-        <value condition="Skin.HasSetting(osd.usecenterCodecStartupLogos)">$LOCALIZE[32058]</value>
-        <value condition="Skin.HasSetting(osd.userightCodecStartupLogos)">$LOCALIZE[32059]</value>
+        <value condition="Skin.HasSetting(osd.useleftCodecStartupLogos)">$LOCALIZE[31957]</value>
+        <value condition="Skin.HasSetting(osd.usecenterCodecStartupLogos)">$LOCALIZE[31958]</value>
+        <value condition="Skin.HasSetting(osd.userightCodecStartupLogos)">$LOCALIZE[31959]</value>
         <value>$LOCALIZE[591]</value>
     </variable>
 
     <variable name="OSDCodecLogosLabel">
-        <value condition="Skin.HasSetting(osd.useleftCodecLogos)">$LOCALIZE[32057]</value>
-        <value condition="Skin.HasSetting(osd.usecenterCodecLogos)">$LOCALIZE[32058]</value>
-        <value condition="Skin.HasSetting(osd.userightCodecLogos)">$LOCALIZE[32059]</value>
+        <value condition="Skin.HasSetting(osd.useleftCodecLogos)">$LOCALIZE[31957]</value>
+        <value condition="Skin.HasSetting(osd.usecenterCodecLogos)">$LOCALIZE[31958]</value>
+        <value condition="Skin.HasSetting(osd.userightCodecLogos)">$LOCALIZE[31959]</value>
         <value>$LOCALIZE[591]</value>
     </variable>
 
     <variable name="PPICodecLogosLabel">
-        <value condition="Skin.HasSetting(ppi.useleftCodecLogos)">$LOCALIZE[32057]</value>
-        <value condition="Skin.HasSetting(ppi.usecenterCodecLogos)">$LOCALIZE[32058]</value>
-        <value condition="Skin.HasSetting(ppi.userightCodecLogos)">$LOCALIZE[32059]</value>
+        <value condition="Skin.HasSetting(ppi.useleftCodecLogos)">$LOCALIZE[31957]</value>
+        <value condition="Skin.HasSetting(ppi.usecenterCodecLogos)">$LOCALIZE[31958]</value>
+        <value condition="Skin.HasSetting(ppi.userightCodecLogos)">$LOCALIZE[31959]</value>
         <value>$LOCALIZE[591]</value>
     </variable>
 	
     <variable name="PPIMode">
-        <value condition="Skin.HasSetting(ppi.classicMode)">$LOCALIZE[32078]</value>
-        <value condition="Skin.HasSetting(ppi.modernMode)">$LOCALIZE[32077]</value>
-        <value>$LOCALIZE[32079]</value>
+        <value condition="Skin.HasSetting(ppi.classicMode)">$LOCALIZE[31978]</value>
+        <value condition="Skin.HasSetting(ppi.modernMode)">$LOCALIZE[31977]</value>
+        <value>$LOCALIZE[31979]</value>
+    </variable>
+	
+    <variable name="ArtworkStyle">
+        <value condition="String.IsEqual(Skin.String(OSD.ArtworkStyle),DiscArt)">$LOCALIZE[31985]</value>
+        <value condition="String.IsEqual(Skin.String(OSD.ArtworkStyle),VHSArt)">$LOCALIZE[31980]</value>
+        <value>$LOCALIZE[31930]</value>
     </variable>
 	
     <variable name="VideoDecoder">
@@ -1500,6 +1506,13 @@
     <variable name="SubtitleNameVar">
         <value condition="String.IsEmpty(VideoPlayer.SubtitlesName)"></value>
         <value condition="!String.IsEmpty(VideoPlayer.SubtitlesName)">$INFO[VideoPlayer.SubtitlesName,| ,, (,)]</value>
+    </variable>
+	
+    <variable name="ColorSpaceVar">
+        <value condition="String.Contains(Player.Process(video.source.hdr.type),SDR) + Integer.IsGreater(Player.Process(video.height.raw),479)">BT.709</value>
+        <value condition="String.Contains(Player.Process(video.dovi.profile),5)">IPTPQc2/IPT</value>
+        <value condition="String.IsEmpty(Player.Process(video.hdr.colour.primaries))">$LOCALIZE[31933]</value>
+        <value condition="!String.IsEmpty(Player.Process(video.hdr.colour.primaries))">$INFO[Player.Process(video.hdr.colour.primaries)]</value>
     </variable>
     
     <variable name="DVProfileVar">
@@ -1562,7 +1575,8 @@
         <value condition="String.Contains(Player.Process(video.source.hdr.type),HDR10) + String.Contains(Player.Process(amlogic.vs10.mode),SDR)">-&gt; SDR</value>
         <value condition="String.Contains(Player.Process(video.source.hdr.type),SDR) + String.Contains(Player.Process(amlogic.vs10.mode),HDR10)">-&gt; HDR10</value>
         <value condition="String.Contains(Player.Process(video.source.hdr.type),SDR) + String.Contains(Player.Process(amlogic.vs10.mode),Dolby Vision)">-&gt; Dolby Vision Profile 8.1</value>
-        <value condition="String.Contains(Player.Process(video.source.hdr.type),Dolby Vision) + String.Contains(Player.Process(amlogic.vs10.mode),SDR)">-&gt; SDR</value>
+        <value condition="String.Contains(Player.Process(video.source.hdr.type),Dolby Vision) + String.Contains(Player.Process(amlogic.vs10.mode),SDR)"> -&gt; SDR</value>
+        <value condition="String.Contains(Player.Process(video.source.hdr.type),Dolby Vision) + String.Contains(Player.Process(amlogic.vs10.mode),HDR10)"> -&gt; HDR10</value>
     </variable>
 	
     <variable name="VS10ModeVar">
@@ -1575,6 +1589,22 @@
 	
     <variable name="DVTunnelVar">
         <value condition="Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),1)">DV Tunnel</value>
+    </variable>
+	
+    <variable name="VideoVPModeVar">
+        <value condition="Integer.IsEqual(Player.Process(video.vpmode),0)">[COLOR tomato][/COLOR]</value>
+        <value condition="Integer.IsEqual(Player.Process(video.vpmode),1)">[COLOR palegreen][/COLOR]</value>
+    </variable>
+	
+    <variable name="CMModeVar">
+        <value condition="!String.StartsWith(Player.Process(video.dovi.meta.version),V)">[COLOR tomato][/COLOR]</value>
+        <value condition="String.StartsWith(Player.Process(video.dovi.meta.version),V)">[COLOR palegreen][/COLOR]</value>
+    </variable>
+	
+    <variable name="CMMode1Var">
+        <value condition="String.IsEqual(Player.Process(video.dovi.meta.version),VCMv4.0 2-0)">CMv4.0 2-0</value>
+        <value condition="String.IsEqual(Player.Process(video.dovi.meta.version),VCMv4.0 2-0 1-L8)">CMv4.0 2-0 1-L8</value>
+        <value>$INFO[Player.Process(video.dovi.meta.version)]</value>
     </variable>
 	
     <variable name="AudioCodecVar">
